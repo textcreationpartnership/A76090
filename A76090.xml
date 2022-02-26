@@ -1,0 +1,699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Chrysammoi] Golden sands, or, A few short hints about the riches  of grace. Part I begun to be opened from the words of the Apostle, in Eph. 2,7 ... : dedicated to the royal bud of our English  hopes, Princesse Elizabeth / by John Bachiler ...</title>
+            <author>Batchiler, John, ca. 1615-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 84 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76090</idno>
+            <idno type="STC">Wing B1073A</idno>
+            <idno type="STC">ESTC R42998</idno>
+            <idno type="EEBO-CITATION">38876084</idno>
+            <idno type="OCLC">ocm 38876084</idno>
+            <idno type="VID">152193</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152193)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2283:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Chrysammoi] Golden sands, or, A few short hints about the riches  of grace. Part I begun to be opened from the words of the Apostle, in Eph. 2,7 ... : dedicated to the royal bud of our English  hopes, Princesse Elizabeth / by John Bachiler ...</title>
+                  <author>Batchiler, John, ca. 1615-1674.</author>
+                  <author>Elizabeth, Princess of England, 1635-1650.</author>
+               </titleStmt>
+               <extent>[47], 116, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Giles Calvert and Henry Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title printed in Greek characters.</note>
+                  <note>Errata: p.[1] at end.</note>
+                  <note>Imperfect: stained, tightly bound and with print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="approbation">
+            <pb facs="tcp:152193:1"/>
+            <pb facs="tcp:152193:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 22. 1646.</date>
+               </dateline>
+            </opener>
+            <p>HAving with great content viewed theſe <hi>Golden Sands</hi> gathered upon the ſhores of that Chryſtal ſtream, the Holy Scrip<g ref="char:EOLhyphen"/>ture: I cannot but more then approve, much deſire, they ſhould be coyned into currant money, for the enriching of the Saints with a further knowledge of the Free grace of God, and of their own happineſſe in the en<g ref="char:EOLhyphen"/>joyment of ſuch a Treaſure.</p>
+            <closer>
+               <signed>Ioſeph Caryl.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:152193:2"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Golden Sands:</hi> OR, A few ſhort HINTS about the <hi>Riches</hi> of <hi>Grace.</hi>
+            </p>
+            <p>Begun to be opened from the words of the Apoſtle, in <hi>Epheſ.</hi> 2.7.</p>
+            <q>
+               <hi>That in the Ages to come, He might ſhew the exceeding Riches of his Grace, in his kindneſſe to<g ref="char:EOLhyphen"/>wards us through Chriſt Ieſus.</hi>
+            </q>
+            <p>
+               <hi>PART.</hi> I.</p>
+            <p>
+               <hi>Dedicated to the Royal Bud of our Engliſh hopes,</hi> Princeſſe <hi>ELIZABETH.</hi>
+            </p>
+            <p>By JOHN BACHILER, <hi>M. A. ſometime of Emmanuel colledge in Cambridge.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Job. 22.23, 24.</hi>
+               </bibl>
+               <p>If thou return to the Almighty—Then ſhalt thou lay up gold as duſt, and the gold of Ophir as the ſtones of the brooks.</p>
+            </q>
+            <q>In minimo eſt magnum. <bibl>
+                  <hi>Lemn. de gemmis.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> for <hi>Giles Calvert,</hi> and <hi>Henry Overton.</hi> 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152193:3"/>
+            <pb facs="tcp:152193:3"/>
+            <head>TO THE Royal Bud Of our <hi>Engliſh</hi> hopes, PRINCESSE <hi>ELIZABETH.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen <hi>Providence</hi> gave me a <hi>call,</hi> (ſo <hi>ſtrong</hi> and <hi>urgent,</hi>
+               <note place="margin">Abcut <hi>Septemb.</hi> 1645.</note> that I could not withſtand it) for a few dayes to exer<g ref="char:EOLhyphen"/>ciſe my mean Abilities
+<pb facs="tcp:152193:4"/>at <hi>Court;</hi> ſuch was the <hi>acceptation</hi> which then I found both from your <hi>Highneſſe,</hi> and your Ho<g ref="char:EOLhyphen"/>nourable <hi>Attendants,</hi> that altogether unex<g ref="char:EOLhyphen"/>pectedly, through your undeſerved <hi>goodneſſe,</hi> I was received into your Preſence with an eye of <hi>favour.</hi>
+            </p>
+            <p>Since which time, (I muſt needs confeſſe) I have endeavoured <hi>ſo</hi> to carry it, that I might not in the leaſt, draw a juſt <hi>ſuſpition</hi> upon my ſelf, of being troubleſome or intruſive through an <hi>uncomely inſinuation:</hi> but
+<pb facs="tcp:152193:4"/>finding, on the other hand, that this my <hi>mo<g ref="char:EOLhyphen"/>deſt</hi> forbearance hath not a little hazarded the interpretation of <hi>neglect</hi> (a crime towards <hi>ſuch</hi> a Princeſſe almoſt <hi>unpar<g ref="char:EOLhyphen"/>donable</hi>) I have reſolved for time to come to de<g ref="char:EOLhyphen"/>liver my ſelf from <hi>this danger</hi> alſo. Where <hi>E<g ref="char:EOLhyphen"/>ſtrangedneſſe</hi> from Per<g ref="char:EOLhyphen"/>ſons both greatly <hi>emi<g ref="char:EOLhyphen"/>nent,</hi> and eminently <hi>ver<g ref="char:EOLhyphen"/>tuous,</hi> (a <hi>rare conjunction</hi>) is rather diſtaſtefull than pleaſing: He cannot be faithfull either to God's <hi>intereſt,</hi> or his own, that is not carefull to avoid
+<pb facs="tcp:152193:5"/>his being charged with it. And therefore ha<g ref="char:EOLhyphen"/>ving ſo <hi>good</hi> an argu<g ref="char:EOLhyphen"/>ment to plead for me, I ſhall be the better able to bear cenſures, eſpeci<g ref="char:EOLhyphen"/>ally in <hi>this</hi> preſent ſer<g ref="char:EOLhyphen"/>vice, wherein I do but anſwer ſome <hi>intimations</hi> given me, by which I find that <hi>this</hi> way, rather then by <hi>written Papers,</hi> I ſhall moſt convenient<g ref="char:EOLhyphen"/>ly become officious, both to your <hi>commands</hi> and your <hi>good deſires;</hi> the <hi>forward piety</hi> where<g ref="char:EOLhyphen"/>of in ſuch <hi>tender</hi> yeares, I cannot but with joy declare. Indeed the A<g ref="char:EOLhyphen"/>poſtle
+<pb facs="tcp:152193:5"/>tels us,<note place="margin">1 <hi>Cor.</hi> 1.26.</note> 
+               <hi>Not many mighty, not many Noble are called.</hi> i. Few <hi>Great</hi> ones prove <hi>good;</hi> but me thinks your <hi>Highnes</hi> ſhould be one of <hi>thoſe Few:</hi> What mean elſe thoſe <hi>golden</hi> ſpeeches, which in my own hear<g ref="char:EOLhyphen"/>ing you have ſometimes uttered, <hi>That you prefer Grace to Greatnes, becauſe you know 'tis the only way to Glory.</hi> That <hi>beggery in this world is much ra<g ref="char:EOLhyphen"/>ther to be choſen,</hi> on con<g ref="char:EOLhyphen"/>dition to be a <hi>Queen</hi> in <hi>Heaven,</hi> then <hi>here</hi> to be a <hi>Queen,</hi> and not come <hi>thither</hi> at laſt. Which
+<pb facs="tcp:152193:6"/>brings to my remem<g ref="char:EOLhyphen"/>brance <hi>that</hi> paſſage alſo, which I obſerved at an<g ref="char:EOLhyphen"/>other time to fall from your <hi>Highneſs,</hi> when your favour admitted me to ſtand by, whileſt you read the 24. of <hi>Mat<g ref="char:EOLhyphen"/>thew.</hi> Beſides the <hi>ſtreines</hi> of <hi>pure wit</hi> which ever and anon came <hi>ſparkling</hi> from you, in your <hi>pretty critical doubts &amp; queries;</hi> coming to theſe words, <hi>Two women ſhall be grind<g ref="char:EOLhyphen"/>ing at the mill, the one ſhall be taken, &amp; the other left:</hi> verſ. 41. Your <hi>Highneſſe</hi> here made a pauſe, utter<g ref="char:EOLhyphen"/>ing theſe words, <hi>I think
+<pb facs="tcp:152193:6"/>ſhe that was left, was the worſt;</hi> and then preſent<g ref="char:EOLhyphen"/>ly added, <hi>I wiſh I might be the woman taken!</hi> If theſe things be <hi>in</hi> you, and <hi>abide,</hi> how <hi>ſweet</hi> a mirth will it be to <hi>An<g ref="char:EOLhyphen"/>gels!</hi> yea, and how <hi>wel<g ref="char:EOLhyphen"/>come</hi> newes to all true<g ref="char:EOLhyphen"/>hearted <hi>Proteſtants,</hi> in whatſoever Kingdom!</p>
+            <p>The <hi>reports</hi> that are abroad already in the juſt <hi>commendations</hi> of your <hi>Highneſſe,</hi> have ſet <hi>thouſands</hi> on work to <hi>pray</hi> for you, and en<g ref="char:EOLhyphen"/>gaged as many <hi>thouſand hearts</hi> to <hi>love</hi> you.</p>
+            <p>That <hi>diligent attention</hi>
+               <pb facs="tcp:152193:7"/>which you are wont to yeeld unto the <hi>preaching</hi> of the <hi>Goſpel;</hi> that <hi>en<g ref="char:EOLhyphen"/>couragement</hi> which you give unto the <hi>Preachers</hi> of it; yea, and that which is a great deal more, that <hi>careful in<g ref="char:EOLhyphen"/>duſtry</hi> which you ſeem not a little to take <hi>de<g ref="char:EOLhyphen"/>light</hi> in, whilſt you not only <hi>write</hi> down every Sermon as it is <hi>preſently delivered,</hi>
+               <note place="margin">Oh may they be written alſo with indelible characters in your Royal heart!</note> but at <hi>ſpecial</hi> times are wont to <hi>pick</hi> out the <hi>choiſeſt</hi> ſentences, and tranſcribe them into a Book <hi>on purpoſe,</hi> with your <hi>own</hi> Royal hand; how great a comfort
+<pb facs="tcp:152193:7"/>muſt it neceſſarily be, both to your <hi>godly</hi> and <hi>learned</hi> Chaplain,<note place="margin">Mr. <hi>Torſhel</hi> The Lady <hi>Southcot.</hi>
+               </note> and your <hi>Religious</hi> Tutreſſe! Verily, if <hi>ſtill</hi> you <hi>pro<g ref="char:EOLhyphen"/>ceed</hi> on farther, if you <hi>continue</hi> ſo <hi>faire</hi> a pro<g ref="char:EOLhyphen"/>greſſe in <hi>this</hi> ſo bleſſed <hi>path</hi> which you have begun to walk in; Will it not turn <hi>all</hi> eyes upon you with <hi>veneration?</hi> wil it not fill <hi>all</hi> mouths with <hi>pleaſant</hi> diſcourſes of you? and after a peculiar manner render thoſe who ſhal have the priviledge of being <hi>neer</hi> unto you, not only <hi>wil<g ref="char:EOLhyphen"/>lingly,</hi> but <hi>ambitiouſly</hi> ob<g ref="char:EOLhyphen"/>ſequious?</p>
+            <pb facs="tcp:152193:8"/>
+            <p> Yet <hi>(ſweeteſt Princeſſe)</hi> you will not be <hi>offended</hi> with me, if by way of <hi>caution</hi> I reminde you of that <hi>excellent</hi> Advice,<note place="margin">
+                  <hi>The</hi> Coun<g ref="char:EOLhyphen"/>teſſe <hi>of</hi> Northum<g ref="char:EOLhyphen"/>berland.</note> which your <hi>prudent</hi> and Noble <hi>Governeſſe</hi> ſome<g ref="char:EOLhyphen"/>times inſtructs you with, <hi>viz.</hi> That in <hi>all this, you take heed of affectation, and vanity;</hi> ſtriving ra<g ref="char:EOLhyphen"/>ther to be like unto the <hi>Kings daughter;</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 45.13.</note> who was <hi>wife</hi> to <hi>Solomon,</hi> a type of Chriſt, <hi>All glorious within;</hi> and <hi>to put on the ornament of an humble minde, which is in the ſight of God,</hi>
+               <note place="margin">1 <hi>Pet.</hi> 3.4.</note> 
+               <hi>of very great value.</hi> Pride and hypo<g ref="char:EOLhyphen"/>criſie
+<pb facs="tcp:152193:8"/>have ever proved, as <hi>fatal,</hi> as they have been <hi>incident</hi> to great perſons: which I heart<g ref="char:EOLhyphen"/>ily wiſh, may frequently be the <hi>ſerious</hi> meditati<g ref="char:EOLhyphen"/>on of your Highneſſe, eſpecially in <hi>after-times,</hi> as you ſhall increaſe in the years of diſcretion: <hi>Fore-warned, fore-armed.</hi> Flatterers will not be wanting, (you may ex<g ref="char:EOLhyphen"/>pect) to do you wrong; and your <hi>own</hi> heart, in all likelihood, will be as <hi>all</hi> hearts are, <hi>apt</hi> e<g ref="char:EOLhyphen"/>nough to hearken to them: ſo <hi>pleaſing</hi> a thing is it naturally, to be de<g ref="char:EOLhyphen"/>ceived
+<pb facs="tcp:152193:9"/>in <hi>this</hi> kind. For the preventing whereof, <hi>Faithfull</hi> &amp; <hi>plain-dealing</hi> Servants, eſpecially ſuch as are as well <hi>wiſe,</hi> as <hi>godly,</hi> will be your <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> beſt friends; Such, of all others, you ſhall do well not only to <hi>make choiſe</hi> of, but to put the <hi>marks</hi> of your <hi>favour</hi> on, and <hi>oblige</hi> them to you with more then <hi>ordinary</hi> reſpects. You are now a <hi>goodly fragrant Roſe,</hi> and but <hi>newly blowne;</hi> What pitty would it be that for want of <hi>ſuch</hi> a<g ref="char:EOLhyphen"/>bout you, any <hi>Canker</hi> of vice ſhould be ſuffered
+<pb facs="tcp:152193:9"/>to <hi>eat</hi> up your <hi>bloſſoms,</hi> or any Worme thereof lie <hi>gnawing</hi> at your <hi>root!</hi> That <hi>Divine ſpark,</hi> or <hi>little Ray</hi> of <hi>GOD,</hi>
+               <note place="margin">Prov. 23.26.</note> I mean the <hi>Immortal ſoul</hi> within your Royal breaſts;<note place="margin">Give me thine heart.</note> me thinks I ſee how the very <hi>Heavens</hi> court it, yea, and how God him<g ref="char:EOLhyphen"/>ſelfe is in a manner <hi>en<g ref="char:EOLhyphen"/>amoured</hi> on it! Why therefore ſhould any thing <hi>below</hi> the Heavens or <hi>leſſe</hi> than <hi>God himſelf,</hi> be thought <hi>worthy</hi> of it? The riches, glory, and greatneſſe of the <hi>other</hi> World, participations and fruitions of Bliſſes
+<pb facs="tcp:152193:10"/>
+               <hi>there,</hi> are the only <hi>proper</hi> objects of an <hi>intellectual</hi> Being. And this, were there no other Argu<g ref="char:EOLhyphen"/>ments to prove it, yet is moſt invincibly demon<g ref="char:EOLhyphen"/>ſtrated by thoſe <hi>inbread vehement</hi> deſires, and motions, with which the <hi>Noble</hi> Mind (like an <hi>Empreſſe,</hi> ſcorning the unworthy meanneſſe of <hi>ſublunary</hi> things) in a perpetuall reſtleſneſſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>naturally</hi> aſcend's to that <hi>original</hi> &amp; <hi>higheſt</hi> good, from whence it <hi>once</hi> de<g ref="char:EOLhyphen"/>ſcended. The conſider<g ref="char:EOLhyphen"/>ation whereof, moſt of all prevailed with me,
+<pb facs="tcp:152193:10"/>to take the <hi>humble bold<g ref="char:EOLhyphen"/>neſſe</hi> of preſenting this little offering of <hi>Heaven<g ref="char:EOLhyphen"/>ly Treaſure</hi> to your High<g ref="char:EOLhyphen"/>neſſe, <hi>Graced</hi> (as it is) and <hi>protected</hi> with your <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> own <hi>ſacred Name.</hi>
+            </p>
+            <p>Sacred, 1. in Scripture ſtory: For it was <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 1.6.</note> that <hi>was righteous before God, walking in all the commandements and Ordinances of the Lord, blameleſs;</hi> it was <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi>
+               <note place="margin">ver. 41, 42</note> that was <hi>filled with the Holy Ghoſt,</hi> when ſhee bleſſed the Mother of <hi>our Lord,</hi>
+               <note place="margin">ver. 44. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> &amp; had a <hi>Babe leaping in her wombe for joy</hi> at the firſt newes of <hi>Him.</hi>
+            </p>
+            <pb facs="tcp:152193:11"/>
+            <p> And verily,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, de iis dici tur qui prae nimia laeti<g ref="char:EOLhyphen"/>tia non poſ<g ref="char:EOLhyphen"/>ſunt ſe con<g ref="char:EOLhyphen"/>tinere, quin varios ge<g ref="char:EOLhyphen"/>ſtue edunt, hinc <hi>&amp;</hi> illinc ſubfilientes. <hi>Beza.</hi>
+               </note> ſhould ty<g ref="char:EOLhyphen"/>dings from <hi>Jeſus Chriſt</hi> at any time occaſion Heavenly dancings in your <hi>Highneſſe</hi> heart would not the Motions be ſuitable to the Melo<g ref="char:EOLhyphen"/>dies?</p>
+            <p>Sacred,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> So both the Latine and Engliſh pro<g ref="char:EOLhyphen"/>nounce it, with <hi>th. Elizabeth.</hi> and <hi>Eliza<g ref="char:EOLhyphen"/>betha.</hi>
+               </note> ſecondly, is the Heavenly <hi>ſenſe</hi> and <hi>ſignification</hi> of it. Eliza<g ref="char:EOLhyphen"/>beth, <hi>The Reſt of my God.</hi> So the Church is, <hi>Zeph.</hi> 3.17. <hi>He will rejoyce over thee with joy, he will reſt in his love, he wil joy over thee with ſinging.</hi> The very place of repoſe, and <hi>ſweeteſt reſt</hi> of the <hi>heart</hi> of God himſelf (we here
+<pb facs="tcp:152193:11"/>ſee) was the <hi>boſome</hi> of his Church: So may he <hi>boſome</hi> of your <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> be!</p>
+            <p>
+               <hi>Or,</hi> Elizabeth,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Quietavit unde Sab<g ref="char:EOLhyphen"/>batum, <hi>i.</hi> ſancta quies.</note> 
+               <hi>My God</hi> (is) <hi>reſt. David</hi> found He was ſo to his ſoule, when after all his trou<g ref="char:EOLhyphen"/>bleſom and weary <hi>wan<g ref="char:EOLhyphen"/>derings,</hi> he turned in un<g ref="char:EOLhyphen"/>to him, <hi>Pſal.</hi> 116.7. <hi>Re<g ref="char:EOLhyphen"/>turn unto thy reſt, Oh my ſoul.</hi> How brave a flight would this be for your Highneſſe alſo!</p>
+            <p>
+               <hi>Or,</hi> Elizabeth, <hi>the Branch of God.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> The Greek pronounceth it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> May it not be ſaid ſo of your Highneſſe? Yes verily, you are (not only as all
+<pb facs="tcp:152193:12"/>mankinde) <hi>his offſpring,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Germen ex arbore naſcens.</note> but hitherto a <hi>pregnant</hi> and <hi>thriving Branch,</hi> which we may <hi>ſhortly</hi> ſee ſpreading out into a fruitful &amp; pleaſant <hi>Vine,</hi> that ſhall yield forth both the ſmell, and the wine of Lebanon, <hi>Hoſ.</hi> 14.7.</p>
+            <p>
+               <hi>Or,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Saepe ſcep<g ref="char:EOLhyphen"/>trum ſigni<g ref="char:EOLhyphen"/>ficat, vel in<g ref="char:EOLhyphen"/>ſigne regiu<g ref="char:cmbAbbrStroke">̄</g>, quod priſci Reges ma<g ref="char:EOLhyphen"/>jeſtatis gra<g ref="char:EOLhyphen"/>tia manu tenebant. <hi>Mr. Leigh</hi> in his <hi>Crit. Sacr.</hi>
+               </note> Elizabeth, <hi>God's ſcepter;</hi> A peece of Princely Majeſtie in the hand of GOD. This alſo is no impro<g ref="char:EOLhyphen"/>per interpretation of your Highneſſe <hi>Name,</hi> in which reſpect it hath alſo a <hi>fair</hi> poſſibility of being <hi>no leſſe</hi> really and
+<pb facs="tcp:152193:12"/>truly <hi>ſacred,</hi> then in any of the former.</p>
+            <p>Thirdly, (which yet adds unto the ſplendor of it) 'tis <hi>ſacred</hi> alſo by that <hi>Soveraignty,</hi> and <hi>greatneſſe</hi> with which it hath been inveſted, both heretofore in that <hi>orient</hi> Peece of <hi>Majesty</hi> &amp; <hi>Ver<g ref="char:EOLhyphen"/>tue,</hi> (ſo powerfully <hi>en<g ref="char:EOLhyphen"/>dearing</hi> all hearts unto it) our <hi>learned Q. Elizabeth</hi> of famous memory; &amp; now alſo in perſons of ſo <hi>great Extraction,</hi> as your Highneſſe Royal <hi>Aunt,</hi> the Queen of <hi>Bohemia,</hi> and your Royal <hi>Couzen,</hi> Princeſſe <hi>Elizabetha.</hi>
+               <pb facs="tcp:152193:13"/>Which <hi>laſt,</hi> upon the very naming, we cannot but <hi>admire,</hi> as well for her <hi>depth</hi> of Judgement in the whole <hi>Theory</hi> of <hi>Divinity;</hi> as her <hi>eager progreſſe</hi> which ſhe hath <hi>already</hi> made through the Flowry Elyſians of <hi>all</hi> humane Learning; An <hi>Equal</hi> unto whom, among very many thou<g ref="char:EOLhyphen"/>ſands of a Lower rank, perhaps might be <hi>rarely</hi> found; but within the Line of <hi>Royalty,</hi> ſcarce <hi>ſuch another,</hi> unleſſe it be the <hi>Supervival</hi> of that moſt Renowned <hi>Guſta<g ref="char:EOLhyphen"/>vus Adolphus, Chriſtina</hi>
+               <pb facs="tcp:152193:13"/>by name, now <hi>Queen</hi> of <hi>Sweden,</hi> who it ſeems hath derived from Hea<g ref="char:EOLhyphen"/>ven, <hi>tam magnum &amp; grandeſcentem Animum,</hi> a <hi>Minde</hi> ſo <hi>big,</hi> and <hi>out<g ref="char:EOLhyphen"/>growing</hi> the Body in which it is ſeated, that at little more then 17 years of age, ſhe knowes how <hi>familiarly</hi> to con<g ref="char:EOLhyphen"/>verſe with <hi>all</hi> the <hi>Arts</hi> and <hi>Sciences,</hi> in no leſſe then <hi>ſeven</hi> Languages. Theſe Princely patterns of <hi>ſingular</hi> ingenuity, &amp; <hi>unparallel'd</hi> advance in Learning, doth not your Highnes ſeem with <hi>de<g ref="char:EOLhyphen"/>light</hi> to imitate? witnes
+<pb facs="tcp:152193:14"/>the viſible proofs there<g ref="char:EOLhyphen"/>of, both in <hi>Greek</hi> &amp; <hi>He<g ref="char:EOLhyphen"/>brew</hi> Characters under your <hi>own</hi> hand; and wit<g ref="char:EOLhyphen"/>neſſe alſo the <hi>promptneſſe</hi> of your <hi>intentive</hi> minde, while that learned Mi<g ref="char:EOLhyphen"/>ſtreſſe of Tongues,<note place="margin">
+                  <hi>Mrs.</hi> Bathſhua Machin.</note> one of the <hi>Ornaments</hi> of our Nation, gladly attend's you about Studies of <hi>that</hi> nature. Sure ere long, it will be a kinde of <hi>Golden</hi> Age, ſince ſuch <hi>tender</hi> Female—Glories <hi>encircle</hi> themſelves with <hi>brighter</hi> beams of <hi>know<g ref="char:EOLhyphen"/>ledge,</hi> than many <hi>Scarlet robes</hi> have been inveſted with in our <hi>Vniverſities.</hi>
+               <pb facs="tcp:152193:14"/>Where <hi>Literature,</hi> and <hi>Religion,</hi> not only meet each other, but are both imbraced into the very boſom of <hi>greateſt Ladies,</hi> how happy a preſage is this? And verily, we are <hi>fairly</hi> promiſed ſuch a bleſſing from <hi>your</hi> Highneſſe. Go on there<g ref="char:EOLhyphen"/>fore, <hi>Great example</hi> of a Princely minde; Go on and <hi>proſper:</hi> Become the learned <hi>Grandchilde</hi> of a learned <hi>Grandfather;</hi>
+               <note place="margin">
+                  <hi>K.</hi> James.</note> &amp; thereby alſo become the <hi>wonder</hi> of many A<g ref="char:EOLhyphen"/>ges, the <hi>myrrour</hi> of your Sex, which all that be<g ref="char:EOLhyphen"/>hold or hear of, may ei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:152193:15"/>
+               <hi>imitate,</hi> or <hi>admire.</hi> Send forth diffuſions of vertual and <hi>magnetick</hi> Powers; Be like the <hi>Sun</hi> in the Heavens to the <hi>Flowers</hi> on earth, every way <hi>attractive</hi> and <hi>in<g ref="char:EOLhyphen"/>fluential,</hi> to the <hi>utmoſt</hi> Circumference of that <hi>Royal ſphere</hi> wherein you move. Let all the <hi>little Ladies,</hi> &amp; young <hi>Gentle<g ref="char:EOLhyphen"/>women,</hi> (I might ſay the <hi>greateſt</hi> &amp; <hi>eldeſt</hi> too) take Lively patterns of <hi>Ingenuity, Piety, Sweetnes,</hi> and <hi>Goodnes,</hi> from your Highnes, though as <hi>yet</hi> not full 11 years of age, and let it be reckoned a<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:152193:15"/>the <hi>glorious ſucceſ<g ref="char:EOLhyphen"/>ſes</hi> of the <hi>Parliament</hi> of <hi>England,</hi>
+               <note place="margin">Not much above two years and an halfe.</note> that in ſo <hi>ſhort</hi> a time ſince they under<g ref="char:EOLhyphen"/>took the care of your Highneſſe <hi>education,</hi> you have made ſo <hi>pleaſant</hi> &amp; <hi>quick</hi> a <hi>progreſs.</hi> And why ſhould not ſo <hi>ſweet</hi> a <hi>Bud</hi> of <hi>braveſt hopes</hi> be <hi>ſtill</hi> accomodated with <hi>all</hi> poſſible Advantages, whereby it may <hi>bloſſome</hi> out and <hi>flouriſh</hi> to the <hi>faireſt</hi> growth of <hi>beauty</hi> and <hi>maturity?</hi> So con<g ref="char:EOLhyphen"/>tend's,</p>
+            <closer>
+               <signed>Your HIGHNESSE <hi>Moſt humbly</hi> Devoted Servant, <hi>John Bachiler.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152193:16"/>
+            <pb facs="tcp:152193:16"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>IF thou expecteſt an A<g ref="char:EOLhyphen"/>pologie for my appear<g ref="char:EOLhyphen"/>ing thus in <hi>Print,</hi> as well thou mayst; I ſhall only tell thee, That after much haeſitation about it, yea and many reſolutions against it, in my own thoughts; I have not at last been drawn to it, but by the <hi>in<g ref="char:EOLhyphen"/>ſtigation</hi> and <hi>adviſe</hi> of thoſe, whom I dare ſay, thou thy ſelf wouldſt judge worthy of an <hi>honourable</hi> esteem for their fitneſſe to give counſel therein.</p>
+            <pb facs="tcp:152193:17"/>
+            <p> That which I here offer thee, hath no controverſie or <hi>ſowreneſſe</hi> in it, being altogether <hi>practical,</hi> and of moſt <hi>inward uſefulnes</hi> to thy <hi>precious Soule.</hi> I ſhall tell thee the <hi>occaſion</hi> of my Meditations upon the following ſubject, and my <hi>deſigne</hi> therein. For the occaſion of it, 'twas thus:</p>
+            <p>Meeting with ſeverall ſorts of ſpirits among thoſe that profeſſe Godlineſſe, ſome pretending <hi>zeal</hi> for the <hi>Law,</hi> and the rights thereof, others as much pretending for the <hi>Goſpel;</hi> ſome pleading for <hi>Moſes,</hi>
+               <pb facs="tcp:152193:17"/>and ſome for <hi>Chriſt:</hi> the firſt ſort paſsing under the name of <hi>Legaliſts,</hi> the ſecond under the name of <hi>Antinomians;</hi> Neither of them <hi>cleer</hi> and <hi>diſtinct</hi> in their Apprehenſions. For the ſatisfaction of my <hi>ſelf,</hi> and ſome <hi>others</hi> with me, I reſolved in my courſe of Preaching to handle the Doctrine of <hi>Free-Grace,</hi> which accordingly I did: Therein conſidering the <hi>riſe</hi> and <hi>ſpring,</hi> the <hi>nature</hi> and <hi>properties,</hi> together with the <hi>peculiar object</hi> of it. And alſo enquired into the <hi>high</hi> and <hi>excel<g ref="char:EOLhyphen"/>lent</hi> Priviledges, as well in
+<pb facs="tcp:152193:18"/>point of <hi>Juſtification, Sanctification,</hi> and pre<g ref="char:EOLhyphen"/>ſent <hi>Conſolation,</hi> as of future <hi>Glorification;</hi> which all thoſe Beleevers muſt neceſſarily enjoy, who live upon the <hi>right uſe</hi> and <hi>improvement</hi> of this <hi>Grace.</hi> After all which, in the Application, one part of my meſſage was, a <hi>ſharp reproof</hi> to all men what<g ref="char:EOLhyphen"/>ſoever, that in <hi>any</hi> kinde offer <hi>wrong</hi> and <hi>injury</hi> to this <hi>Grace</hi> of God; ei<g ref="char:EOLhyphen"/>ther by <hi>neglecting, abu<g ref="char:EOLhyphen"/>ſing,</hi> or <hi>prophaning</hi> it, while they turne it into <hi>wantonneſſe,</hi> or take any occaſion from it to <hi>allow</hi>
+               <pb facs="tcp:152193:18"/>themſelves in Evil, or <hi>caſt off</hi> Duty. The very <hi>beſt</hi> of Gods <hi>own</hi> people were not ſpared, who were <hi>any way</hi> found guilty in the <hi>leaſt;</hi> and were told, That even thoſe of the ſons and Daughters of. <hi>Free<g ref="char:EOLhyphen"/>grace,</hi> that happily might think themſelves the <hi>only darlings</hi> of God's <hi>boſom,</hi> yet can never be able to bring a <hi>ſatisfying</hi> proof thereof, unleſs they <hi>honour</hi> the glory of his <hi>Soveraign<g ref="char:EOLhyphen"/>ty</hi> as <hi>much</hi> by yeelding <hi>obedience</hi> to his <hi>right<g ref="char:EOLhyphen"/>eous Law,</hi> as they <hi>im<g ref="char:EOLhyphen"/>brace</hi> the ſweetneſſe of his <hi>Love,</hi> by <hi>beleeving</hi> his bleſsed <hi>Goſpel.</hi>
+               <pb facs="tcp:152193:19"/>When this work was done, the <hi>ſame</hi> good Hand of Heaven, that led me thus far into the ſtudy &amp; view of <hi>Grace</hi> it <hi>ſelf,</hi> carried me much farther, to be<g ref="char:EOLhyphen"/>hold the <hi>Riches &amp; Glory</hi> of it, as 'tis in part al<g ref="char:EOLhyphen"/>ready, and ſhall <hi>hereafter</hi> be much more revealed un<g ref="char:EOLhyphen"/>to the world: And ſo now thou haſt my <hi>deſigne</hi> alſo, which (out of the Apoſtles words,<note n="*" place="margin">
+                  <hi>Viz.</hi> That in the Ages to come hee might ſhew the exceed<g ref="char:EOLhyphen"/>ing Riches of his grace, in his kind<g ref="char:EOLhyphen"/>neſſe to<g ref="char:EOLhyphen"/>wards us, through Chriſt Ie<g ref="char:EOLhyphen"/>ſus.</note> 
+               <hi>Epheſ. 2.7.</hi>) is to do theſe <hi>three</hi> things.</p>
+            <p>First, to enter into <hi>Free-Grace</hi> her <hi>treaſuries,</hi> to open her <hi>Cabinets</hi> of <hi>Jewels,</hi> there to take no<g ref="char:EOLhyphen"/>tice
+<pb facs="tcp:152193:19"/>of the <hi>exceeding Riches</hi> of it.</p>
+            <p>Secondly, To make it appear, that it is, and ever hath been the <hi>great</hi> buſi<g ref="char:EOLhyphen"/>neſſe and <hi>delight</hi> of Gods <hi>heart,</hi> to <hi>ſhew</hi> forth and diſcover the <hi>exceeding Riches</hi> of this his <hi>Grace</hi> unto the ſonnes of men.</p>
+            <p>Thirdly, That though theſe <hi>exceeding Riches</hi> of <hi>Grace</hi> have in all times paſt been more or leſſe re<g ref="char:EOLhyphen"/>vealed; yet, that the <hi>ful<g ref="char:EOLhyphen"/>leſt</hi> and <hi>cleereſt</hi> manife<g ref="char:EOLhyphen"/>ſtations thereof are reſer<g ref="char:EOLhyphen"/>ved for the <hi>laſt</hi> Ages: And that though for the preſent, the very foundati<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:152193:20"/>of the world are in a manner ſhaken, Kingdoms and Nations almoſt daſh'd in peeces with miſerable concuſsions among them<g ref="char:EOLhyphen"/>ſelves; though all things ſeem now <hi>dark</hi> &amp; <hi>ſtormy,</hi> with a diſmall kind of Blackneſſe <hi>round about:</hi> Yet when theſe bluſtering Menaces ſhall be <hi>huſh'd</hi> into a Calm, and theſe un<g ref="char:EOLhyphen"/>comfortable Clouds be <hi>diſ<g ref="char:EOLhyphen"/>ſipated,</hi> (which may not be <hi>very</hi> long firſt) Then ſhall the <hi>Light</hi> ariſe, I mean the <hi>light</hi> of glorious Grace, with the <hi>ſplendors</hi> and <hi>brightneſſe</hi> of it, in a far <hi>greater</hi> heighth than
+<pb facs="tcp:152193:20"/>in all <hi>former</hi> Generations.</p>
+            <p>All this I thought to have brought within the compaſſe of <hi>one ſmall</hi> Vo<g ref="char:EOLhyphen"/>lume; but I find my ſelf very much <hi>diſappointed</hi> of my Project, And there<g ref="char:EOLhyphen"/>fore ſhall prepare that by <hi>peece-meal,</hi> which I thought to have preſented in one <hi>entire</hi> Diſcourſe. And perhaps, all things conſidered, it will be the <hi>beſt</hi> way: For, the <hi>Com<g ref="char:EOLhyphen"/>modity</hi> which I ſet to ſale being very <hi>rich,</hi> and yet <hi>abſolutely</hi> neceſſary for the uſe of <hi>All;</hi> when it is made up in <hi>ſmall</hi> parcels, ſuch as may neither <hi>bur<g ref="char:EOLhyphen"/>den</hi>
+               <pb facs="tcp:152193:21"/>the <hi>Pocket,</hi> nor the <hi>Purſe,</hi> neither prove too <hi>big</hi> for many to <hi>buy,</hi> nor for any to <hi>carry</hi> about them; they will be the more able, and willing to <hi>fur<g ref="char:EOLhyphen"/>niſh</hi> themſelves There<g ref="char:EOLhyphen"/>with.</p>
+            <p>In this <hi>firſt</hi> Parcel, I bring but a <hi>minute</hi> quan<g ref="char:EOLhyphen"/>tity of the <hi>Riches</hi> menti<g ref="char:EOLhyphen"/>oned; very <hi>little,</hi> in com<g ref="char:EOLhyphen"/>pariſon of what thou mayeſt expect hereafter: There<g ref="char:EOLhyphen"/>fore the Title is, <hi>Golden Sands.</hi> If thou <hi>accept</hi> of theſe, I ſhall ſhew thee afterwards (Christ aſsiſt<g ref="char:EOLhyphen"/>ing me) whole <hi>Mines</hi> and <hi>Mountains</hi> of this <hi>Grace-Gold;</hi>
+               <pb facs="tcp:152193:21"/>Mountains that reach up <hi>unto,</hi> yea, and <hi>above</hi> the Heavens. And therefore, that thine Heart (mean while) may be as a pure Chrystal glaſſe, to <hi>hold</hi> theſe <hi>precious Sands</hi> of <hi>Grace</hi> (till more comes) is the <hi>earneſt</hi> de<g ref="char:EOLhyphen"/>ſire of</p>
+            <closer>
+               <signed>
+                  <hi>An affectionate Seeker</hi> of thy Soveraign welfare, <hi>JOHN BACHILER.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study at</hi> Windſor caſtle, <date>
+                     <hi>Decemb. 21. 1646.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:152193:22"/>
+            <pb facs="tcp:152193:22"/>
+            <head>The TABLE.</head>
+            <list>
+               <label>CHAP. 1.</label>
+               <item>THE various accepti<g ref="char:EOLhyphen"/>ons of the word <hi>Grace;</hi> and in what ſenſe it is underſtood in <hi>this</hi> Diſcourſe.</item>
+               <label>CHAP. 2.</label>
+               <item>That there is a <hi>Rich<g ref="char:EOLhyphen"/>neſſe</hi> in <hi>Grace,</hi> proved by <hi>4</hi> Demonſtrations.</item>
+               <pb facs="tcp:152193:23"/>
+               <label>CHAP. 3.</label>
+               <item>Wherein the <hi>Richneſſe</hi> of it lies, chiefly that it is ſo <hi>preciouſly ſoveraigne</hi> to <hi>ſave.</hi>
+               </item>
+               <label>CHAP. 4.</label>
+               <item>How many wayes the <hi>Riches</hi> of this <hi>Grace</hi> are divided <hi>among,</hi> and par<g ref="char:EOLhyphen"/>ticipated <hi>by</hi> the Saints. Where, of the <hi>loſſes</hi> that <hi>Grace ſuſteins from</hi> the Saints; and of the <hi>Debts</hi> which it <hi>for<g ref="char:EOLhyphen"/>gives to</hi> them.</item>
+               <pb facs="tcp:152193:23"/>
+               <label>CHAP. 5.</label>
+               <item>The <hi>Ranſom</hi> that <hi>Grace</hi> layes down to redeem the Saints.</item>
+               <label>CHAP. 6.</label>
+               <item>The <hi>Expences</hi> which it is at, in maintaining of them.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152193:24"/>
+            <pb facs="tcp:152193:24"/>
+            <pb facs="tcp:152193:25"/>
+            <pb n="1" facs="tcp:152193:25"/>
+            <head>GOLDEN SANDS.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPH. 2.7.</hi>
+                  </bibl>
+                  <p>That in the Ages to come he might ſhew the excee<g ref="char:EOLhyphen"/>ding <hi>Riches</hi> of his <hi>Grace,</hi> in his kindneſſe towards us, through Chriſt Jeſus.</p>
+               </q>
+            </epigraph>
+            <p>HAving in the Epiſtle to the Reader, alrea<g ref="char:EOLhyphen"/>dy glanced at the ſcope of theſe words, and the chiefe parts of them; I
+<pb n="2" facs="tcp:152193:26"/>ſhall preſently apply my ſelfe to that which lyes firſt in order to be open<g ref="char:EOLhyphen"/>ed, <hi>viz.</hi> The <hi>Riches</hi> of <hi>Grace,</hi> dividing the moſt diſtinct pieces of the whole Diſcourſe into ſo many Chapters.</p>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>Of the various acceptions of the word <hi>Grace</hi> in Scripture, and in what ſenſe 'tis underſtood in <hi>this</hi> Diſcourſe.</p>
+               </argument>
+               <p>IT ſometimes ſignifi's the <hi>comlyneſſe, grace<g ref="char:EOLhyphen"/>fulneſſe,</hi> or <hi>beauty</hi> of a
+<pb n="3" facs="tcp:152193:26"/>
+                  <hi>perſon</hi> or <hi>thing,</hi> ſuch as the <hi>excellency</hi> of ſpeech, <hi>Prov.</hi> 22.11. For the <hi>grave</hi> of his <hi>lips,</hi> the King ſhall be his friend. <hi>Pſal.</hi> 45.2. <hi>Grace</hi> is powred into thy lips: or the glo<g ref="char:EOLhyphen"/>ry of an <hi>ornament, Pro.</hi> 1.9 and 4.9. An <hi>ornament</hi> of <hi>grace</hi> unto thy head: or the <hi>gallantry</hi> of a garden, in its <hi>verdure, Jam.</hi> 1.11. ſpeaking of the <hi>withering</hi> flower, the <hi>grace</hi> of the faſhion of it periſheth.</p>
+               <p>It ſometimes ſigni<g ref="char:EOLhyphen"/>fies a <hi>condeſcending ſweet<g ref="char:EOLhyphen"/>nes,</hi> or gracious affability eſpecially towards one <hi>much</hi> inferiour, <hi>Judg.</hi> 6.17.
+<pb n="4" facs="tcp:152193:27"/>If now I have found <hi>grace</hi> in thy ſight, ſaith <hi>Gideon</hi> to the <hi>Angel</hi> of the <hi>Lord:</hi> and <hi>Moſes</hi> often, that I may find <hi>grace</hi> in thy ſight, <hi>Exod.</hi> 33.12, 13, 16, 17. <hi>Gen.</hi> 39.4. And <hi>Joſeph</hi> found <hi>grace</hi> in the ſight (of his Maſter) and he ſerved him.</p>
+               <p>It ſometimes ſigni<g ref="char:EOLhyphen"/>fi's a <hi>placability,</hi> or gen<g ref="char:EOLhyphen"/>tle <hi>appeaſeablenes</hi> of ſpi<g ref="char:EOLhyphen"/>rit, an <hi>aptnes</hi> to be recon<g ref="char:EOLhyphen"/>ciled, and return againe to thoughts of <hi>former</hi> amity and friendſhip, forgetting and <hi>paſsing by</hi> of <hi>injuries,</hi> if any ſuch
+<pb n="5" facs="tcp:152193:27"/>have been. Thus <hi>Jacob</hi> to his brother <hi>Eſau,</hi> when he brought his Preſent, <hi>Gen.</hi> 38.8. theſe are to find <hi>grace</hi> in the eyes of my Lord.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Invenire vel conci<g ref="char:EOLhyphen"/>liare gra<g ref="char:EOLhyphen"/>tiam.</note>
+               </p>
+               <p>It ſometime ſignifie's an <hi>honourable eſteeme,</hi> grounded upon an ap<g ref="char:EOLhyphen"/>prehenſion of ſomething <hi>excellent</hi> in a perſon: 'tis ſaid of the Apoſtles whoſe preaching was grown <hi>famous</hi> to a multi<g ref="char:EOLhyphen"/>tude that believed, <hi>Acts</hi> 5.32. <hi>Great grace</hi> was upon them all. <hi>Luke</hi> 2.42. And <hi>Jeſus</hi> grew in wiſdome, and ſtature, &amp; in favour (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>grace</hi>)
+<pb n="6" facs="tcp:152193:28"/>with God and man.</p>
+               <p>It ſometime ſignifies a <hi>teſtimony of ſpeciall good will,</hi> conferred upon a perſon in ſome eminent <hi>marke</hi> of favour, <hi>Rom.</hi> 1.5. By whom we have received <hi>grace</hi> and <hi>Apo<g ref="char:EOLhyphen"/>ſtleſhip. Eſter</hi> 2.17. And the King loved <hi>Eſther</hi> a<g ref="char:EOLhyphen"/>bove al the women, and ſhe obtained <hi>grace</hi> and <hi>favour</hi> in his ſight, more then all the Virgins: ſo that he ſet the <hi>Royall Crown</hi> upon her head. Thus when Kings make Earles and Dukes by Charter or Patent, the <hi>Royall ſtile</hi> is, Wee of
+<pb n="7" facs="tcp:152193:28"/>our <hi>ſpeciall good will,</hi> or of our <hi>meer grace</hi> and <hi>fa<g ref="char:EOLhyphen"/>vour,</hi> &amp;c.</p>
+               <p>It ſometime ſignifi's a <hi>gift freely given:</hi> thus of the contributions from the Churches of <hi>Macedonia.</hi> 2 <hi>Cor.</hi> 8.1. after whoſe example, the <hi>Apoſtle</hi> exhort's the <hi>Corrinthians,</hi> therefore as ye abound in every thing, fee that ye abound in this <hi>grace</hi> alſo, <hi>v.</hi> 7. In this ſenſe after an <hi>eſpecial</hi> manner, the <hi>gifts</hi> and <hi>di<g ref="char:EOLhyphen"/>vine qualifications</hi> of the Saints are called <hi>Graces,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Gratia gratis data.</note> as the <hi>grace</hi> of <hi>Faith,</hi> the <hi>grace</hi> of <hi>Love,</hi> the <hi>grace</hi>
+                  <pb n="8" facs="tcp:152193:29"/>of <hi>meeknes, &amp;c.</hi> which <hi>live</hi> as ſo many heaven<g ref="char:EOLhyphen"/>ly <hi>principles, habits,</hi> or <hi>Rootes</hi> of holineſſe in the <hi>hearts</hi> where they are <hi>planted.</hi>
+               </p>
+               <p>Laſtly, to mention but this one more, moſt <hi>properly,</hi> moſt <hi>emphati<g ref="char:EOLhyphen"/>cally,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, it is ſpoken of <hi>God,</hi> and ſig<g ref="char:EOLhyphen"/>nifi's the moſt <hi>abundant freenes,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Gratia grati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dans.</note> and <hi>bountifulnes</hi> of his <hi>heart,</hi> in the <hi>bleſſed communications</hi> of him<g ref="char:EOLhyphen"/>ſelfe, unto his <hi>Elect, as ſuch,</hi> I ſay <hi>as ſuch,</hi> for none elſe are the <hi>proper objects</hi> of this <hi>grace</hi> but <hi>they,</hi> it is <hi>their peculiar at<g ref="char:EOLhyphen"/>tribute,
+<pb n="9" facs="tcp:152193:29"/>God</hi> is <hi>good</hi> to others, but <hi>gracious</hi> to <hi>them</hi> only: to <hi>them</hi> he <hi>Ray's</hi> forth and <hi>Beam's</hi> out <hi>himſelfe.</hi> He <hi>diffuſeth</hi> and <hi>ſhed's</hi> among them, the pure and <hi>bright ema<g ref="char:EOLhyphen"/>nations</hi> of his <hi>glory:</hi> ſo that 'tis their priviledge, to fit as it were encircled with <hi>irradiations,</hi> with <hi>eternall ſmiles</hi> from his <hi>face:</hi> ſo powerfully are his affections ever work<g ref="char:EOLhyphen"/>ing towards them, through <hi>this</hi> his <hi>grace,</hi> that to <hi>them</hi> he is al<g ref="char:EOLhyphen"/>wayes moſt eaſy to be intreated, moſt <hi>placable,</hi> moſt <hi>ſweet. Them</hi> he em<g ref="char:EOLhyphen"/>braceth,
+<pb n="10" facs="tcp:152193:30"/>and <hi>emboſometh</hi> with a kind of <hi>in-bred</hi> &amp; <hi>naturall Love,</hi> a Love ſo exceeding <hi>active</hi> in the <hi>declarations</hi> of it ſelfe, that it never ceaſeth <hi>diſ<g ref="char:EOLhyphen"/>penſing</hi> to the Saints, the moſt <hi>rich</hi> things they are capable of, either here or hereafter. Of this <hi>grace</hi> it is, and the riches of it, we ſhall now ſpeak.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="11" facs="tcp:152193:30"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>That there is a</hi> richneſſe <hi>in</hi> Grace, <hi>viz.</hi> That Grace <hi>which is</hi> pro<g ref="char:EOLhyphen"/>perly <hi>knowne by the name of the</hi> Free grace <hi>of God.</hi>
+                  </p>
+               </argument>
+               <p>NOt a meere <hi>putative</hi> richneſſe, a richnes in <hi>opinion</hi> only, whereby things are <hi>eſteemed</hi> rich, which <hi>are not</hi> ſo in them<g ref="char:EOLhyphen"/>ſelves. Some Chroni<g ref="char:EOLhyphen"/>cles tell us of pieces of leather, that with the <hi>Kings ſtamp</hi> upon them paſſed for <hi>currant</hi> coyne;
+<pb n="12" facs="tcp:152193:31"/>as Cockle-ſhels and Fiſh-bones doe now a<g ref="char:EOLhyphen"/>mongſt the Indians.</p>
+               <p>But the <hi>richneſſe</hi> which is in the <hi>grace</hi> we ſpeak of, is a <hi>reall, ſubſtantiall, ſollid</hi> richneſſe, <hi>ſuch</hi> a richneſſe as truly ren<g ref="char:EOLhyphen"/>der's it a moſt <hi>rich</hi> thing in it ſelfe, though <hi>all</hi> the world ſhould <hi>thinke</hi> o<g ref="char:EOLhyphen"/>therwiſe: which will ap<g ref="char:EOLhyphen"/>peare from theſe foure Demonſtrations, beſides many others.</p>
+               <p>Firſt, if you conſider this grace in the <hi>effects,</hi> which it <hi>ſelfe onely</hi> is <hi>cau<g ref="char:EOLhyphen"/>ſall</hi> and <hi>influentiall</hi> to, <hi>viz.</hi> thoſe <hi>ſupernaturall</hi>
+                  <pb n="13" facs="tcp:152193:31"/>and moſt <hi>precious</hi> opera<g ref="char:EOLhyphen"/>tions of <hi>it</hi> in the Saints <hi>hearts.</hi> Some have fan<g ref="char:EOLhyphen"/>cyed pure gold in the veynes under ground to be nothing elſe but a condenſation of <hi>Sunne<g ref="char:EOLhyphen"/>beames</hi> concocted by the <hi>influences</hi> which <hi>them<g ref="char:EOLhyphen"/>ſelves</hi> brought with the<g ref="char:cmbAbbrStroke">̄</g>: which opinion, though very abſurd and ridicu<g ref="char:EOLhyphen"/>lous, yet may ſerve to <hi>il<g ref="char:EOLhyphen"/>luſtrate</hi> the thing in hand. For what are thoſe holy diſpoſitions in <hi>renewed</hi> hearts? thoſe divine <hi>par<g ref="char:EOLhyphen"/>ticipations</hi> of Grace we there meet with? Are they not the <hi>precious
+<pb n="14" facs="tcp:152193:32"/>things</hi> wrought by the <hi>Sun,</hi> the <hi>precious things</hi> of <hi>heaven;</hi> to allude to that in <hi>Deut.</hi> 33.13, 14. <hi>Surely</hi> (ſaith <hi>Job,</hi> ſpeaking of the earth) <hi>there is a veine for ſilver, and a place for gold, the ſtones of it are the place of ſaphirs, and it hath duſt of gold, in it is hidden every precious thing.</hi> Job 28.1, 6, 10. and ſurely it is <hi>as true</hi> co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cerning <hi>gracious hearts:</hi> Surely there is a <hi>veine</hi> for <hi>ſilver,</hi> and <hi>duſt</hi> of <hi>gold,</hi> there is a <hi>place</hi> for <hi>Sa<g ref="char:EOLhyphen"/>phirs,</hi> and <hi>many</hi> a <hi>precious</hi> thing lies <hi>hidden</hi> in thoſe <hi>hearts.</hi> Such as the <hi>things</hi>
+                  <pb n="15" facs="tcp:152193:32"/>whereof we read, 1 <hi>Cor.</hi> 2.9, 10, 11. The <hi>things</hi> of God, the <hi>deep things</hi> of God, the <hi>things prepa<g ref="char:EOLhyphen"/>red</hi> or <hi>wrought</hi> by God, and <hi>that</hi> by his <hi>free grace</hi> onely, as is intimated, <hi>ver.</hi> 12. And <hi>theſe</hi> things, what are they elſe, but the very <hi>ſame,</hi> which (for want of ſome <hi>one intelli<g ref="char:EOLhyphen"/>gible</hi> word that might <hi>fully</hi> expreſſe the <hi>richnes</hi> of them all at <hi>once</hi>) are repreſented to us, under the <hi>many ſeverall exegeti<g ref="char:EOLhyphen"/>call</hi> termes of the <hi>richeſt</hi> things in the world, <hi>viz Silver, choice ſilver, gold, fine gold, choice gold, pure
+<pb n="16" facs="tcp:152193:33"/>gold, gold of Ophir, Jewels of fine gold, Pearles, Rubies, the pretious Onyx,</hi> the <hi>Saphir,</hi> the <hi>Topaz</hi> of <hi>Ethiopia.</hi> See <hi>Job.</hi> 28.14, 20. with <hi>Prov.</hi> 3.14, 15. and <hi>Prov.</hi> 8.10, 19. yea, <hi>better</hi> then <hi>all theſe, v.</hi> 11. <hi>All things that can be deſi<g ref="char:EOLhyphen"/>red are not to be compared to them.</hi>
+                  <note place="margin">Quod fa<g ref="char:EOLhyphen"/>cit tale eſt mag is tale.</note> Now that wich is <hi>cauſally productive</hi> to ſuch <hi>rich</hi> things, how <hi>rich</hi> is it in it <hi>ſelfe?</hi>
+               </p>
+               <p>Secondly, the <hi>holy Spirit,</hi> which alwayes ſpeak's <hi>Truth</hi> it ſelfe, <hi>ſaith</hi> 'tis rich, and that in <hi>more</hi> places the<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>one</hi> in the New Teſtament. <hi>This
+<pb n="17" facs="tcp:152193:33"/>Spirit</hi> alſo, which never <hi>miſ called</hi> any thing, <hi>call's Grace</hi> by its <hi>name,</hi> gave it that name it hath. The very <hi>Single</hi> word Grace, though <hi>riches</hi> had <hi>not</hi> beene added to it, is a word <hi>importing</hi> a moſt pretious thing. The ve<g ref="char:EOLhyphen"/>ry word <hi>Diamond</hi> car<g ref="char:EOLhyphen"/>ry's a <hi>ſenſe</hi> along with it, that ſpeak's it <hi>richer</hi> then a <hi>pebble.</hi> So that when you name <hi>that</hi> and a <hi>pebble</hi> together, a man needs not <hi>helpe</hi> it, with adding this Epithet <hi>Rich</hi> unto it, to perſwade a belife that 'tis <hi>better</hi> then a <hi>pebble.</hi> In like man<g ref="char:EOLhyphen"/>ner,
+<pb n="18" facs="tcp:152193:34"/>name what you can of <hi>created</hi> Excellencies, the very <hi>ſingle monoſylla<g ref="char:EOLhyphen"/>ble Grace</hi> preſently ſpeaks it <hi>ſelfe, infinitly</hi> more rich and excellent then <hi>all</hi> things. It was a proofe of <hi>Adams Wiſedome</hi> and <hi>perfect knowledge</hi> in na<g ref="char:EOLhyphen"/>tur's ſecrets, that by Gods <hi>owne</hi> appoint<g ref="char:EOLhyphen"/>ment, he gave <hi>names</hi> to the living creatures, which were all ſo <hi>perti<g ref="char:EOLhyphen"/>nent</hi> and <hi>ſignificant,</hi> that the text ſaith they ſtood <hi>unaltered. Gen.</hi> 2.8. And <hi>whatſoever Adam</hi> called every living creature, <hi>that</hi> was the <hi>name</hi> there<g ref="char:EOLhyphen"/>of.
+<pb n="19" facs="tcp:152193:34"/>Now the <hi>holy ſpirit</hi> much more <hi>knowes</hi> what is in every thing, eſpeci<g ref="char:EOLhyphen"/>ally in this <hi>rich Grace,</hi> to the nature whereof it <hi>ſelfe</hi> is ſo <hi>intrinſecally coeſ<g ref="char:EOLhyphen"/>ſentiall.</hi> It was <hi>this</hi> ſpirit gave the <hi>Starres</hi> their names at firſt, and the Heavens alſo that very name by which <hi>now</hi> they are called; and he alſo <hi>underſtood</hi> himſelfe when he gave <hi>Grace</hi> its <hi>Name.</hi> Men may indeed be mi<g ref="char:EOLhyphen"/>ſtaken &amp; call things by better names then they deſerve. Hence <hi>Copper</hi> ſometimes goes for <hi>gold,</hi> and <hi>Briſtoll-ſtones</hi> for <hi>Di<g ref="char:EOLhyphen"/>amonds,</hi>
+                  <pb n="20" facs="tcp:152193:35"/>they may <hi>over<g ref="char:EOLhyphen"/>value</hi> things through their <hi>ignorance,</hi> but who can charge the <hi>holy Spi<g ref="char:EOLhyphen"/>rit thus?</hi> It <hi>He</hi> ſayth <hi>grace</hi> is <hi>rich,</hi> wee muſt needs conclude 'tis ſo indeed; for what is rich, if <hi>that</hi> be not, which <hi>this</hi> holy Spirit account's ſo?</p>
+               <p>Thirdly, that the Saints might be <hi>actuall ſharers and enjoyers</hi> of this <hi>grace,</hi> it <hi>coſt</hi> much; and that from <hi>him</hi> who <hi>knew</hi> it was <hi>worth</hi> the price he pai'd for their fruition of it, elſe would never have bought it at ſo <hi>deare</hi> a rate. The life-blood of
+<pb n="21" facs="tcp:152193:35"/>the <hi>Prince</hi> of Peace, the Lord of <hi>glory,</hi> the <hi>belo<g ref="char:EOLhyphen"/>ved</hi> Son of God <hi>himſelfe</hi> went for it. called Gods <hi>own</hi> blood, <hi>Acts</hi> 20.28. therefore <hi>neceſſarily</hi> pre<g ref="char:EOLhyphen"/>tious, 1 <hi>Pet.</hi> 1.19. Saint <hi>Paul</hi> ſpeak's <hi>emphatically,</hi> 2 Cor. 8.9. Ye know the <hi>grace</hi> of our Lord <hi>Ie<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> that though he was <hi>rich,</hi> yet for your ſakes he became <hi>poore,</hi> that <hi>you</hi> through his <hi>po<g ref="char:EOLhyphen"/>verty</hi> might be made <hi>rich.</hi> He was rich, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, quaſi <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, cui opes plurimae.</note> 
+                  <hi>i. e.</hi> he had abundance, a moſt plentifull afflu<g ref="char:EOLhyphen"/>ence of <hi>all</hi> riches, as the word import's, yet for
+<pb n="22" facs="tcp:152193:36"/>your ſakes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Significat extremam Chriſti in<g ref="char:EOLhyphen"/>opiam, &amp; quaſi men<g ref="char:EOLhyphen"/>dicitatem. <hi>Vorſtius.</hi> Ad extre<g ref="char:EOLhyphen"/>mam ino<g ref="char:EOLhyphen"/>piam reda<g ref="char:EOLhyphen"/>ctus. <hi>Beza.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, prop<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>è mendicus, qui nihil habet niſi quod oſtia. tim acce<g ref="char:EOLhyphen"/>perit. <hi>Step. Mat. 2611.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> peculium, <hi>i.e.</hi> poſſeſ<g ref="char:EOLhyphen"/>ſio proprio &amp; peculia<g ref="char:EOLhyphen"/>ri empta pretio.</note> he became <hi>poore,</hi> even <hi>ſo mi<g ref="char:EOLhyphen"/>ſerably</hi> poor, that he e<g ref="char:EOLhyphen"/>ven <hi>beg'd</hi> his bread, for ſo it properly ſignifies, he laid out his <hi>whole</hi> e<g ref="char:EOLhyphen"/>ſtate, ſcarce left himſelf worth a <hi>groat</hi> (as the Proverbe is) even <hi>begger<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> himſelfe, that he might purchaſe <hi>this</hi> grace unto the <hi>Saints;</hi> which is ther<g ref="char:EOLhyphen"/>fore called the <hi>purchaſed</hi> poſſeſſion, <hi>Epheſ.</hi> 1.14. he <hi>emptyed</hi> himſelfe, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Philip.</hi> 2.7. pou<g ref="char:EOLhyphen"/>red all out from himſelf, that he might fill <hi>them,</hi> &amp; <hi>their</hi> treaſuries to the <hi>brim.</hi>
+               </p>
+               <pb n="23" facs="tcp:152193:36"/>
+               <p> If it be ſaid, had not the Saints an <hi>intereſt</hi> in this <hi>free grace</hi> from all e<g ref="char:EOLhyphen"/>ternity, when they were at firſt made <hi>objects</hi> of it by God himſelfe, and that without any conſi<g ref="char:EOLhyphen"/>deration had unto <hi>Ieſus Chriſt</hi> as <hi>Mediator?</hi> Was it not <hi>theirs then</hi> by <hi>free gift?</hi> And doth not the <hi>firſt</hi> title to it, hold good ſtill? And if ſo, how then are we ſaid to have <hi>no ſhare</hi> in it <hi>without</hi> his blood? <hi>Anſ.</hi> The electi<g ref="char:EOLhyphen"/>on of the Saints, and de<g ref="char:EOLhyphen"/>creeing of all that glory which they ſhal one day be inveſted with in hea<g ref="char:EOLhyphen"/>ven,
+<pb n="24" facs="tcp:152193:37"/>was indeed a pure act of <hi>Free grace,</hi> yet ſo that all the three perſons as <hi>one</hi> God, <hi>equally</hi> con<g ref="char:EOLhyphen"/>curred in it, &amp; ſo in that ſence, one Perſon had not a <hi>greater</hi> hand, or was <hi>ſooner</hi> in the act of election, then the o<g ref="char:EOLhyphen"/>ther; therefore the Saints are <hi>therein alike</hi> behold<g ref="char:EOLhyphen"/>ing to <hi>all three,</hi> Father, Son, and Spirit. But ſe<g ref="char:EOLhyphen"/>condly, conſider all the three Perſons, in the <hi>ſe<g ref="char:EOLhyphen"/>verall</hi> parts (as wee may ſo ſpeake) which they act towards the accom<g ref="char:EOLhyphen"/>pliſhment, and <hi>execution</hi> of all that bleſſednes
+<pb n="25" facs="tcp:152193:37"/>which was at <hi>firſt joyntly</hi> intended by them for the Saints; and then the <hi>actuall fruition</hi> thereof will moſt <hi>eminently</hi> de<g ref="char:EOLhyphen"/>pend upon the ſhedding of <hi>Chriſt's blood.</hi> The caſe being much <hi>other<g ref="char:EOLhyphen"/>wiſe</hi> in <hi>ſupernaturals,</hi> then in things <hi>ſublunary.</hi> In this world, if a man hath but a <hi>ſingle</hi> title to a thing, provided it be a <hi>juſt</hi> title, though it be but by <hi>gift onely,</hi> or by <hi>purchaſe onely,</hi> he enter's the <hi>poſſeſsion</hi> of it <hi>without interruption.</hi> But the <hi>Saints</hi> cannot doe ſo; for although they <hi>have</hi> an
+<pb n="26" facs="tcp:152193:38"/>
+                  <hi>intereſt</hi> in the riches of free-grace <hi>by gift,</hi> yet their <hi>actuall injoyment</hi> of them muſt be by <hi>pur<g ref="char:EOLhyphen"/>chaſe.</hi> The Son as <hi>Medi<g ref="char:EOLhyphen"/>ator</hi> muſt really inveſt them with that which <hi>Himſelfe</hi> as <hi>God</hi> together with the Father and the Spirit did really intend for them. From hence it is, that <hi>his blood,</hi> as it is a <hi>Ranſom</hi> in one ſenſe, (of which anon) ſo 'tis the <hi>price</hi> of a <hi>purchaſe</hi> in ano<g ref="char:EOLhyphen"/>ther, and that ſo neceſſa<g ref="char:EOLhyphen"/>rily, that the Saints could never have actually in<g ref="char:EOLhyphen"/>joyed their bleſſedneſſe <hi>without</hi> it. The conſe<g ref="char:EOLhyphen"/>quence
+<pb n="27" facs="tcp:152193:38"/>of all which, is, That as it hereby ap<g ref="char:EOLhyphen"/>pear's what a <hi>richneſſe</hi> there is in this <hi>blood</hi> that could <hi>purchaſe</hi> ſuch preci<g ref="char:EOLhyphen"/>ous Grace; and what a <hi>richneſſe</hi> in that <hi>love</hi> that was willing to lay down <hi>ſuch</hi> a price for it; ſo al<g ref="char:EOLhyphen"/>ſo, what a <hi>richneſſe</hi> there is in <hi>this grace</hi> that could be procured upon no <hi>cheaper termes.</hi>
+               </p>
+               <p>Fourthly, theſe <hi>riches</hi> of grace are the <hi>wealth</hi> of <hi>God himſelfe,</hi> the very <hi>gold</hi> of heaven. Men are reputed rich either in bags of <hi>money,</hi> cabinets of <hi>jewels,</hi> brave <hi>lands,</hi> and
+<pb n="28" facs="tcp:152193:39"/>goodly <hi>buildings;</hi> yea, and ſome of them in <hi>Crownes</hi> and <hi>Kingdomes:</hi> but all <hi>God's</hi> jewels, <hi>his</hi> money, <hi>his</hi> Revenues, yea and his <hi>whole</hi> Kingdom's <hi>wealth,</hi> ly's in this <hi>one</hi> rich commodity, his <hi>grace. Epheſ.</hi> 2.4. <hi>God who is rich in mercy, &amp;c.</hi> When <hi>Moſes</hi> deſired to know <hi>what</hi> God's glory was, and to have a <hi>ſight</hi> of it, the Lord cauſed all his <hi>goodneſſe</hi> to paſſe be<g ref="char:EOLhyphen"/>fore him, and his name to be proclaimed, <hi>The Lord, the Lord God mercifull and gracious, &amp;c.</hi> As if hee had ſaid, <hi>Moſes</hi> wouldſt
+<pb n="29" facs="tcp:152193:39"/>thou know <hi>wherein</hi> my Glory conſiſts? It is in my <hi>Goodneſſe, Mercy,</hi> and <hi>Grace.</hi> The ſame anſwer muſt be given to thoſe that enquire <hi>wherein</hi> his <hi>Riches</hi> and great abun<g ref="char:EOLhyphen"/>dance ly's? 'tis in his <hi>Grace.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>What</hi> that <hi>is in</hi> Free<g ref="char:EOLhyphen"/>grace <hi>that mak's it ſo</hi> rich <hi>a thing.</hi>
+                  </p>
+               </argument>
+               <p>NAmely, the moſt <hi>incomparable</hi> and ſo<g ref="char:EOLhyphen"/>veraign excellency ther<g ref="char:EOLhyphen"/>of, the <hi>ſingularity</hi> of its moſt <hi>beatificating</hi> ſweet<g ref="char:EOLhyphen"/>neſſe,
+<pb n="30" facs="tcp:152193:40"/>it being (as 'twere) the <hi>Root</hi> of all thoſe at<g ref="char:EOLhyphen"/>tributes whereby in ſo peculiar a manner the moſt bleſſed God is ſo <hi>tranſcendently</hi> amiable, ſweet and glorious to the Saints. Nor is there any thing wherein wee can ſuppoſe the <hi>richneſſe</hi> of this grace conſiſts more, then in that <hi>never-fading</hi> and <hi>ſemp-eternall Efloriſca<g ref="char:EOLhyphen"/>tion of it:</hi> the <hi>Flowring</hi> out (as one may ſay) of Gods <hi>good nature</hi> in the <hi>fairneſſe</hi> of its <hi>bloſſome</hi> from its <hi>owne</hi> moſt <hi>aro<g ref="char:EOLhyphen"/>matick</hi> root.</p>
+               <p>For as they ſay <hi>Love</hi>
+                  <pb n="31" facs="tcp:152193:40"/>in man is the <hi>Root</hi> of all the other vertues: ſo af<g ref="char:EOLhyphen"/>ter a ſort may we ſay of God's free grace, that it is the <hi>root</hi> of his Mercy, Pitty, Patience, Good<g ref="char:EOLhyphen"/>neſſe, Kindneſſe, &amp;c. yea that only whereby he is the <hi>higheſt</hi> and <hi>chiefeſt</hi> Good. By this it is, that he is the inexhauſted <hi>fountaine</hi> of all thoſe ſtreames of <hi>Bleſſedneſſe</hi> that flow forth &amp; over<g ref="char:EOLhyphen"/>flow all the Creation o<g ref="char:EOLhyphen"/>ver; the eternall <hi>ſpring</hi> and <hi>Well-head</hi> of all thoſe <hi>freſh</hi> ſeas and oceans of the <hi>ſwelling</hi> tides and <hi>bot<g ref="char:EOLhyphen"/>tomleſſe</hi> depths of <hi>ineffable</hi>
+                  <pb n="32" facs="tcp:152193:41"/>ſweetneſſe and love, to <hi>all</hi> his elect, both men &amp; Angels. And how then can the unparalleld rich<g ref="char:EOLhyphen"/>neſſe of it be eſtimated? Set Chriſt and his blood aſide, and what is it can be <hi>thought</hi> upon, that can come up to the <hi>price</hi> of one <hi>dram</hi> of it for a poor ſoule? it would <hi>beggar</hi> all the Angels in heaven to doe it. Stars are but the <hi>duſt</hi> of heaven, and yet one <hi>ſingle</hi> ſtaris <hi>richer</hi> in its ſubſtance then the <hi>whole</hi> globe of earth. The ſoul of the meaneſt man alive is more worth then a <hi>world,</hi> as he him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="33" facs="tcp:152193:41"/>tel's us, who went to the price of ſoules: what then ſhall we think of this <hi>grace,</hi> by which <hi>alone</hi> it is poſſible a ſoule may be <hi>ſaved?</hi> And in<g ref="char:EOLhyphen"/>deed herein ly's very much of the <hi>Richneſſe</hi> of it, that it is the onely <hi>All-head,</hi> ſo <hi>ſoveraigne</hi> to <hi>ſave:</hi> yea ſo much of the richneſſe of it, that <hi>Seraphims</hi> want Arith<g ref="char:EOLhyphen"/>metick to ſumme up the <hi>value</hi> thereof. <hi>That</hi> balm which <hi>never</hi> fails of hea<g ref="char:EOLhyphen"/>ling, in <hi>no</hi> caſe whatſoe<g ref="char:EOLhyphen"/>ver; <hi>that</hi> Cordial which alwayes quicken's and keep's alive at the <hi>very
+<pb n="34" facs="tcp:152193:42"/>touch</hi> of it, how ineſtima<g ref="char:EOLhyphen"/>ble is the worth of it for <hi>that very reaſon?</hi> But we are forced to fall off fro<g ref="char:cmbAbbrStroke">̄</g> this ſo high a <hi>ſpeculation,</hi> to ſomething that com's better under our <hi>ſhallow</hi> apprehenſions.</p>
+            </div>
+            <div n="4" type="chapter">
+               <argument>
+                  <p>The ſeverall wayes by which the <hi>Riches</hi> of <hi>Grace</hi> are <hi>participated</hi> by, and <hi>divided</hi> among the <hi>Saints.</hi>
+                  </p>
+               </argument>
+               <p>FIrſt, conſider the <hi>loſſes</hi> which Free Grace ſuſtein's <hi>from</hi> the Saints. Had <hi>Adam</hi> ſtood,
+<pb n="35" facs="tcp:152193:42"/>and his poſterity after him, what a <hi>revenue</hi> of love, obedience and ho<g ref="char:EOLhyphen"/>nour ſhould God have had, for almoſt 6000. yeares? <hi>Millions</hi> of <hi>milli<g ref="char:EOLhyphen"/>ons</hi> had come in unto him, <hi>treaſuries</hi> of glory, which by means of that <hi>unhappy</hi> fall, he hath <hi>to<g ref="char:EOLhyphen"/>tally</hi> &amp; <hi>irrecoverably</hi> loſt. For though the wicked rout of men, which ſhall certainly periſh and goe down to hell at laſt, muſt thereby undergoe <hi>eter<g ref="char:EOLhyphen"/>nall</hi> torments for the making of ſome kind of <hi>payment</hi> to Divine Ju<g ref="char:EOLhyphen"/>ſtice: yet the <hi>Elect</hi> goe
+<pb n="36" facs="tcp:152193:43"/>free, <hi>altogether free,</hi> as touching their <hi>own</hi> indi<g ref="char:EOLhyphen"/>viduall perſons; ſo that <hi>Grace</hi> is an <hi>abſolute</hi> loſer by them, hath <hi>no</hi> pay<g ref="char:EOLhyphen"/>ments at all from <hi>their</hi> hands, no not <hi>one ſingle farthing</hi> for all the rents that have beene ſo long behind.</p>
+               <p>Secondly, conſider the debts which Grace freely <hi>forgiv's</hi> to the Saints. Their <hi>ſinnes</hi> are their <hi>debts,</hi> witneſſe our Saviour's owne words, <hi>Mat</hi> 6.12. <hi>Forgive us our debts, as we forgive our debtors.</hi>
+               </p>
+               <p>Now 1. How <hi>innume<g ref="char:EOLhyphen"/>rable</hi>
+                  <pb n="37" facs="tcp:152193:43"/>are theſe debts? what <hi>multitudes</hi> of tranſ<g ref="char:EOLhyphen"/>greſſions of all ſorts are the Saints guilty of? <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was a man after God's <hi>owne</hi> heart, yet heare what he ſaith, <hi>Pſal.</hi> 19.12. <hi>Who can un<g ref="char:EOLhyphen"/>derſtand his errors?</hi> and more fully, <hi>Pſal.</hi> 40.12. <hi>Innumerable evils have compaſſed me about.</hi> A man would <hi>ſoone</hi> loſe himſelfe in the obſervation of the very <hi>actuall</hi> aberrations which are multiplyed by him continually; but what are theſe to the <hi>ſwarmes</hi> of <hi>ſearet</hi> corrup<g ref="char:EOLhyphen"/>tions <hi>within</hi> him, that lye <hi>out</hi> of ſight?</p>
+               <p n="2">
+                  <pb n="38" facs="tcp:152193:44"/> 2. How <hi>great</hi> and <hi>vaſt</hi> are the <hi>ſummes,</hi> which theſe debts a<g ref="char:EOLhyphen"/>mount unto? thinke on that alſo. The Saints cannot ſinne at ſo <hi>cheap</hi> a rate as others. <hi>Chriſt</hi> is a <hi>King</hi> to them, and God is <hi>Their Father.</hi> Now ſuppoſe a <hi>Child</hi> that hath had coſtly breeding, yea and <hi>more</hi> love then ordinary from his <hi>carefull</hi> and <hi>tender</hi> Fa<g ref="char:EOLhyphen"/>ther, ſhould breake out in ſome act of <hi>violence</hi> and <hi>indignity</hi> againſt his <hi>Father,</hi> that hath <hi>de<g ref="char:EOLhyphen"/>ſerv'd</hi> better at <hi>his</hi> hands: or ſuppoſe a pro<g ref="char:EOLhyphen"/>feſſed
+<pb n="39" facs="tcp:152193:44"/>ſubject, who by <hi>all</hi> the lawes of <hi>nature</hi> &amp; <hi>nations,</hi> is <hi>obliged</hi> to loy<g ref="char:EOLhyphen"/>alty under his gratious Soveraign, ſhould be<g ref="char:EOLhyphen"/>come guilty of <hi>Rebellion;</hi> Nay, to riſe yet a great deale higher, ſuppoſe a <hi>favorite</hi> at court, one that is <hi>familiar</hi> with the King, that know's his <hi>ſecrets, liv's</hi> in his very <hi>heart,</hi> that ever ſtand's <hi>before,</hi> and even <hi>next</hi> his chaire of State; and which is yet more, one whoſe <hi>life</hi> hath beene <hi>ſav'd,</hi> and that <hi>many</hi> times over by the mercy and clemency of <hi>this</hi> his Lord the
+<pb n="40" facs="tcp:152193:45"/>
+                  <hi>King:</hi> And beſides all this hath been <hi>advanced</hi> to <hi>eminent</hi> places of Ho<g ref="char:EOLhyphen"/>nour, with <hi>all</hi> the <hi>marks</hi> of <hi>Royall love</hi> upon him. I ſay, ſuppoſe ſuch a fa<g ref="char:EOLhyphen"/>vorite as <hi>this</hi> ſhould <hi>a<g ref="char:EOLhyphen"/>ſperſe</hi> the Name, <hi>deface</hi> the picture, <hi>rend</hi> the Arms, <hi>clip</hi> the coyn, con<g ref="char:EOLhyphen"/>temne the Lawes, <hi>vilifie</hi> the government of the King. Suppoſe he ſhould <hi>ſuggeſt</hi> plots <hi>unto,</hi> or any way <hi>ſtrengthen</hi> the hands of <hi>thoſe</hi> that ſeek his <hi>life;</hi> or would make an <hi>Aſſault</hi> upon his <hi>Crown</hi> and <hi>Dignity:</hi> Would not <hi>this</hi> man's crimes be
+<pb n="41" facs="tcp:152193:45"/>more then ordinarily <hi>treaſonable?</hi> For a <hi>ſtran<g ref="char:EOLhyphen"/>ger</hi> that liv's under ano<g ref="char:EOLhyphen"/>ther Prince, or a <hi>ſworne enemy</hi> to doe this, would be the leſſe wonder; but for one ſo <hi>many</hi> wayes, and ſo <hi>ſtrongly</hi> ty'd by <hi>all</hi> the bands of <hi>Humani<g ref="char:EOLhyphen"/>ty, ingenuity, gratitude, obedience,</hi> yea, and of <hi>friendſhip</hi> it ſelfe (which is ever wont to bind with <hi>ſilken</hi> cords) I ſay for <hi>ſuch</hi> an one to fall in<g ref="char:EOLhyphen"/>to ſo <hi>foule</hi> a fault, what puniſhment can be a <hi>ſuf<g ref="char:EOLhyphen"/>ficient</hi> expiation for it? And yet <hi>all</hi> the ſinnes of the <hi>Saints</hi> even <hi>every</hi> one
+<pb n="42" facs="tcp:152193:46"/>of them are more or leſſe of <hi>this horrid na<g ref="char:EOLhyphen"/>ture:</hi> For God is a <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> to <hi>them,</hi> though <hi>not</hi> to others; and Chriſt is a <hi>King</hi> to <hi>them,</hi> even a King <hi>acknowledged</hi> and <hi>owned</hi> by them, though <hi>not</hi> by others: There<g ref="char:EOLhyphen"/>fore for <hi>them</hi> to <hi>Crucifie him afreſh,</hi> or be <hi>any</hi> way in the <hi>leaſt, acceſſary</hi> to <hi>ſuch</hi> mutinies and re<g ref="char:EOLhyphen"/>bellions againſt him, as are found in the hearts even of the very beſt of them; how <hi>great</hi> a wrong is it? ſurely the ſinnes of the <hi>Saints</hi> then are <hi>debts</hi> of no <hi>petty</hi> or <hi>ſmall</hi> values.</p>
+               <pb n="43" facs="tcp:152193:46"/>
+               <p> And it were well if <hi>this</hi> were all, for over and above there are <hi>o<g ref="char:EOLhyphen"/>ther</hi> debts of <hi>another</hi> kind, and theſe as <hi>great</hi> and as <hi>innumerable</hi> as the <hi>former,</hi> which the Saints perpetually run into: And if this <hi>rich</hi> grace did not <hi>ſuffer</hi> them to doe ſo, they muſt <hi>all famiſh</hi> and <hi>ſtarve quickly,</hi> even (as the proverb is) for <hi>cold</hi> and <hi>hunger:</hi> not one of them being able to put <hi>bread</hi> into their mouthes, or get a <hi>rag</hi> for their backs, without a ſupply from the <hi>hand</hi> of <hi>grace.</hi> They all live on
+<pb n="44" facs="tcp:152193:47"/>
+                  <hi>credit,</hi> and take up on <hi>truſt:</hi> ſo that ſhould they <hi>ceaſe</hi> from <hi>borrowing,</hi> they would <hi>ſoon</hi> ceaſe to <hi>be.</hi> And 'tis not a <hi>little</hi> that Grace furniſheth them withall; not ſuch trifling ſummes as <hi>ſhillings</hi> or <hi>pounds,</hi> but with <hi>hun<g ref="char:EOLhyphen"/>dreds,</hi> with <hi>thouſands,</hi> with <hi>millions.</hi> And it is not but for <hi>now</hi> and <hi>then</hi> onely, or very <hi>ſeldome,</hi> but which add's abun<g ref="char:EOLhyphen"/>dantly to all the reſt, 'tis <hi>conſtantly.</hi> They not only <hi>never wipe</hi> out <hi>old</hi> ſcores, but on the quite contra<g ref="char:EOLhyphen"/>ry, ſtill are beginning <hi>new</hi> ones, <hi>multiplying</hi> ſcores
+<pb n="45" facs="tcp:152193:47"/>without number. Oh the <hi>piles</hi> of <hi>debt-bookes</hi> that lye <hi>heaped up</hi> in <hi>Free-grace</hi> her <hi>Counting-houſe!</hi> All which as Grace <hi>ſuffer's</hi> with <hi>riches</hi> of <hi>patience,</hi> ſo ſhe <hi>forgiv's</hi> at laſt with <hi>riches</hi> of <hi>mercy.</hi>
+               </p>
+               <p>Now that Grace is <hi>able</hi> to doe this, &amp; that with<g ref="char:EOLhyphen"/>out <hi>feeling</hi> it or being <hi>impaired</hi> at all by it, how convincing an argu<g ref="char:EOLhyphen"/>ment is it of the <hi>riches</hi> of it? Should <hi>any</hi> man alive, even the <hi>richeſt</hi> of the <hi>whole</hi> race of <hi>Adam</hi> doe ſo; ſhould he loſe <hi>mighty</hi> revenues, forgive <hi>multi<g ref="char:EOLhyphen"/>tudes</hi> of <hi>vaſt</hi> debts, ſup<g ref="char:EOLhyphen"/>ply
+<pb n="46" facs="tcp:152193:48"/>the wants of <hi>thou<g ref="char:EOLhyphen"/>ſands,</hi> ſuffer old ſcores and new to <hi>increaſe</hi> upon him, from a numberleſſe number of <hi>bankrupt</hi> and <hi>bad</hi> debtors, and that <hi>continually,</hi> would it not <hi>break</hi> him over and over? could he be able to <hi>hold up</hi> his head, or keep his trade going? yet <hi>Grace</hi> doth this, and <hi>break's</hi> not. As there are <hi>multitudes</hi> of <hi>ſinnes and debts</hi> which the Saints can never take off, ſo Grace hath <hi>multi<g ref="char:EOLhyphen"/>tudes</hi> of <hi>mercies</hi> to <hi>croſſe</hi> them out: and as thoſe debts are <hi>vaſt</hi> and ex<g ref="char:EOLhyphen"/>ceeding <hi>great,</hi> ſo Grace
+<pb n="47" facs="tcp:152193:48"/>hath <hi>as tender</hi> and <hi>great mercies,</hi> even <hi>bowels, row<g ref="char:EOLhyphen"/>ling bowels</hi> of <hi>pitty</hi> to for<g ref="char:EOLhyphen"/>give. It <hi>abundantly</hi> par<g ref="char:EOLhyphen"/>dons, <hi>Eſay</hi> 55.7. and where ſinne abound's, there to a Beleever this Grace <hi>ſuperabounds. Rom.</hi> 5.20.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+               </p>
+               <p>One would think, the very <hi>back</hi> of Grace ſhould <hi>crack</hi> under it, that it ſhould be <hi>totally impove<g ref="char:EOLhyphen"/>riſhed</hi> and undone. But behold, it is ſo far from ſinking, or giving out, that as if it had ſuffered <hi>no</hi> loſſe at all, or met with <hi>no</hi> bad debtors, but had received its <hi>due</hi> unto
+<pb n="48" facs="tcp:152193:49"/>the <hi>utmoſt,</hi> it liv's and <hi>maintain's</hi> its port with as much <hi>magnificence</hi> as e<g ref="char:EOLhyphen"/>ver. Grace <hi>reigneth,</hi> ſaith the Apoſtle,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Rom.</hi> 5.21. keep's Court in Heaven like an <hi>Empreſſe</hi> notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>The <hi>Ranſom</hi> which Grace layes down <hi>for</hi> the Saintss</p>
+               </argument>
+               <p>THirdly, conſider the <hi>Ranſome</hi> which Free Grace lay's downe <hi>for</hi> the Saints. The beſt of them before conver<g ref="char:EOLhyphen"/>ſion
+<pb n="49" facs="tcp:152193:49"/>are under a <hi>double</hi> bondage. 1. In the hands of a moſt cruell <hi>Tyrant.</hi> 2. Of a moſt exacting <hi>Creditor.</hi>
+               </p>
+               <p>Firſt, of a moſt uſurp<g ref="char:EOLhyphen"/>ing <hi>tyrant, Sinne,</hi> which exerciſeth dominion o<g ref="char:EOLhyphen"/>ver them, and to which <hi>they</hi> alſo for a time <hi>yeeld themſelves as ſervants to obey it, Rom.</hi> 6.6,—20. Sin reign's like a Lord of miſ-rule, the moſt <hi>Prince<g ref="char:EOLhyphen"/>ly Off-ſprings</hi> of heaven, the moſt royall births a<g ref="char:EOLhyphen"/>mong the Saints, have known the ſorrows of <hi>vaſſals</hi> under it. <hi>They</hi> alſo, till a Deliverer com's,
+<pb n="50" facs="tcp:152193:50"/>are <hi>ſold under ſin, Rom.</hi> 7.14. as ſlaves are ſold for a <hi>baſe</hi> price, and to doe <hi>baſe</hi> work. And as for the Devill with his fel<g ref="char:EOLhyphen"/>lowes, all the while the poore Saints are in <hi>this</hi> kind of bondage under <hi>ſinne,</hi> they are but the tyrants executioners: bloody ones indeed they are; for beſides the hor<g ref="char:EOLhyphen"/>rid threats of death and hell with which they <hi>ſcare</hi> them, how <hi>ſorely</hi> do they whip them to all thoſe cruell ſervices in which they are employ<g ref="char:EOLhyphen"/>ed by ſin? Beleeve it, they ſtrike <hi>ſmartly,</hi> who
+<pb n="51" facs="tcp:152193:50"/>will take off, they lay on moſt <hi>deadly</hi> blowes, ſcourges that <hi>draw blood</hi> apace, and <hi>cut deepe,</hi> even to the very <hi>bone.</hi> As the task-maſters of Egypt made the <hi>Children of Iſrael ſerve with rigour &amp; hard bondage, and made their liv's bitter,</hi> what with their work, and their ſore beating them, <hi>Exod.</hi> 1.13, 14. Thus theſe Diabolicall tor<g ref="char:EOLhyphen"/>menters lay about them moſt ſeverely, uſing the <hi>precious ſons</hi> of Zion, as if no better then the <hi>Skullions</hi> of hell. Nor wil they ſuffer a moments
+<pb n="52" facs="tcp:152193:51"/>reſt to them, but make them <hi>work even in the very fire,</hi> among <hi>fiery temptati<g ref="char:EOLhyphen"/>ons,</hi> to allude to that of the Prophet <hi>Hab.</hi> 2.13: Now ſo long as the Saints are under ſuch a <hi>mercileſſe</hi> tyrant, and ſuch <hi>Dragon-lawes,</hi> ſo fiercely impoſed and executed, how <hi>great</hi> a bondage is it?</p>
+               <p>Secondly, they are in the hands alſo of a moſt <hi>exacting Creditor, Divine Juſtice;</hi> for what<g ref="char:EOLhyphen"/>ever Free-grace pleaſe to doe, in bearing its owne loſſes, and forgiving its owne debts; yet <hi>Juſtice</hi>
+                  <pb n="53" facs="tcp:152193:51"/>will not be <hi>ſo</hi> ſatisfied, neither for it ſelfe, nor for all thoſe other At<g ref="char:EOLhyphen"/>tributes which have been as much wronged as ever Grace it ſelfe was; the Saints are as much behind hand with <hi>Juſtice, Wiſdome, Faith<g ref="char:EOLhyphen"/>fulneſſe, Goodneſſe, Patience,</hi> and all the reſt; there<g ref="char:EOLhyphen"/>fore Juſtice ſerv's an <hi>Ar<g ref="char:EOLhyphen"/>reſt</hi> upon them, and that not only in its <hi>own name,</hi> but in the <hi>name</hi> of <hi>all</hi> the other Creditors; yea &amp; it keeps them in ſafe cu<g ref="char:EOLhyphen"/>ſtody without <hi>bayle</hi> or main-prize; and to pri<g ref="char:EOLhyphen"/>ſon they muſt goe, there
+<pb n="54" facs="tcp:152193:52"/>to lye, till they have anſwered for <hi>all</hi> wrongs, and pay'd <hi>all</hi> debts, even to the <hi>utmoſt farthing;</hi> which if they can never attain, the wrath of God ſeizeth on them in pains unutterable for ever<g ref="char:EOLhyphen"/>more, <hi>Mat.</hi> 5.25, 26.</p>
+               <p>In <hi>this</hi> moſt <hi>miſerable double bondage,</hi> in the ſtate of unregeneracie, doe the poore Saints lie; and are like to continue ſo, unleſſe <hi>freegrace</hi> com's in for their reli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, which at one time or other it is ſure to doe, and with ſo powerfull an hand too, that immediately it re<g ref="char:EOLhyphen"/>ſcu's
+<pb n="55" facs="tcp:152193:52"/>them from <hi>all</hi> theſe miſeries at once. And the meanes by which Grace doth this, is by laying downe a <hi>Ranſom,</hi> (even the ſame which before we told you went for the price of a <hi>pur<g ref="char:EOLhyphen"/>chaſe</hi> alſo) the life-blood of Chriſt. He is the <hi>great Lord Treaſurer</hi> of heaven, Free-grace her <hi>Caſh kee<g ref="char:EOLhyphen"/>per,</hi> at whoſe onely ap<g ref="char:EOLhyphen"/>pointment 'twas (for in <hi>this</hi> buſineſſe <hi>ſhe</hi> rul's all) that he came downe from his glory, with all the <hi>fulneſſe</hi> of the God<g ref="char:EOLhyphen"/>head in him bodily. He brought <hi>all his wealth</hi>
+                  <pb n="56" facs="tcp:152193:53"/>with him, that he might be ſure to <hi>take off all</hi> rec<g ref="char:EOLhyphen"/>konings before his re<g ref="char:EOLhyphen"/>turn. Well, when he did come, and that by free-grace <hi>her ſending,</hi> what was the <hi>work</hi> ſhe ſet him about? was it not to performe <hi>her</hi> promiſes, and make good <hi>her</hi> en<g ref="char:EOLhyphen"/>gagements for the poore Saints? <hi>Goe,</hi> ſaith Grace to him, <hi>goe</hi> downe from heaven, <hi>goe</hi> and <hi>ranſome</hi> ſuch and ſuch whom I have elected. Loe I am ready, ſaith Chriſt, <hi>Pſal.</hi> 40.7, 8. I goe willingly: and as he ſaid, he did; ac<g ref="char:EOLhyphen"/>cording to <hi>all</hi> the Com<g ref="char:EOLhyphen"/>miſſion
+<pb n="57" facs="tcp:152193:53"/>that Grace gave him, he moſt <hi>punctually</hi> perform's. Grace or<g ref="char:EOLhyphen"/>der's him to lay down a <hi>ranſome,</hi> and he doth ſo, and that <hi>ſuch</hi> a <hi>ranſome,</hi> as is every way, and to <hi>all</hi> purpoſes, <hi>effectually</hi> ſufficient. He gave his life a <hi>ranſome</hi> for many. <hi>Mat.</hi> 20.28. the word imports a <hi>double ranſome,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>à</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>ſolvo,</hi> to pay, or to looſe, as when one unty's bands or fetters.</note> anſwerable to the dou<g ref="char:EOLhyphen"/>ble bondage mentioned. Firſt, a <hi>ranſome by power,</hi> whereby the captive with ſtrong hand is re<g ref="char:EOLhyphen"/>ſcued from the oppreſ<g ref="char:EOLhyphen"/>ſor. Secondly, a <hi>ranſome by price,</hi> whereby full ſa<g ref="char:EOLhyphen"/>tisfaction
+<pb n="58" facs="tcp:152193:54"/>is made to the <hi>Creditor,</hi> either in <hi>ready money,</hi> or ſomething elſe equivalent, and ſo the Priſoner ſet free both from the <hi>gaole</hi> and the <hi>debt</hi> too. Now in both theſe ſenſes the death and blood-ſhed of Jeſus Chriſt is become a <hi>ran<g ref="char:EOLhyphen"/>ſome</hi> to the <hi>Saints.</hi> Firſt, it ſets them free from the <hi>power</hi> of ſinne, the Devill, death and hell, by <hi>conquering and trium<g ref="char:EOLhyphen"/>phing</hi> over them. <hi>Who gave himſelfe for us, that he might redeeme us from all iniquity, Tit.</hi> 2.14. As Grace before delivered
+<pb n="59" facs="tcp:152193:54"/>from ſinne, in reſpect of the guilt of it, by <hi>forgi<g ref="char:EOLunhyphen"/>ving</hi> it, and therein de<g ref="char:EOLhyphen"/>clared the <hi>riches</hi> of it, as the Apoſtle tells us, <hi>Eph.</hi> 1.7. <hi>By whom</hi> (ſpeaking of Chriſt) <hi>we have the forgiveneſſe of ſins, accord<g ref="char:EOLunhyphen"/>ing to the riches of grace;</hi> ſo here alſo it deliver's from the <hi>dominion</hi> of ſin, even through the <hi>re<g ref="char:EOLhyphen"/>demption of his blood,</hi> as we there alſo have it. And by the <hi>ſame</hi> blood he ſav's from <hi>death</hi> and <hi>hell</hi> too, yea and <hi>him</hi> that hath the power of them both, which is the <hi>devil, Heb.</hi> 2.14. <hi>Through death
+<pb n="60" facs="tcp:152193:55"/>he deſtroyed death, Coloſ.</hi> 2.15. <hi>Having ſpoiled Prin<g ref="char:EOLhyphen"/>cipalities and powers, he made a ſhew of them openly, triumphing over them.</hi> He ſpeaks it of thoſe princi<g ref="char:EOLhyphen"/>palities and powers, which are <hi>alſo</hi> called <hi>ſpi<g ref="char:EOLhyphen"/>rituall wickedneſſes, Epheſ.</hi> 6.12.</p>
+               <p>Secondly, yet that was not the <hi>onely</hi> ranſom that was laid down, for Grace <hi>pay's</hi> the Creditors alſo, even all that they can demand; whatſoever it is, that the Saints are endebted to any Credi<g ref="char:EOLhyphen"/>tor in heaven or in earth, Grace diſchargeth all;
+<pb n="61" facs="tcp:152193:55"/>for the <hi>vaſteſt</hi> ſummes it makes ſuch <hi>ample</hi> ſatisfa<g ref="char:EOLhyphen"/>ction, not only for <hi>Prin<g ref="char:EOLhyphen"/>ciple,</hi> but for <hi>Intereſt,</hi> even to an <hi>hour's</hi> forbearance, that more in <hi>juſtice</hi> can<g ref="char:EOLhyphen"/>not be required. There<g ref="char:EOLhyphen"/>fore 'tis ſaid of Chriſt, that he <hi>ſaveth to the ut<g ref="char:EOLhyphen"/>moſt, Heb.</hi> 7.25. becauſe he hath <hi>paid</hi> the utmoſt farthing, as 'tis phraſed, <hi>Mat.</hi> 5.26. ſo that <hi>none</hi> of the Creditors, no not <hi>Juſtice</hi> it ſelf, as exacting as it is, hath any thing to doe now to keepe the Priſoner any longer, but <hi>looketh graciouſly, &amp; ſaith, Deliver him from going
+<pb n="62" facs="tcp:152193:56"/>down into the pit, I have found a ranſom, Job</hi> 33.24 The Gaoler what ever he be muſt open doores, and let his priſoner out; yea and more then ſo, he muſt <hi>deliver</hi> up the <hi>keyes</hi> alſo, even <hi>all</hi> that bunch of keyes with which the poore Saints were locked in. And if you aske, into <hi>whoſe</hi> hands theſe keyes are given? 'tis into the hands of <hi>Grace,</hi> who ha<g ref="char:EOLhyphen"/>ving them at her diſpoſe, ſhe againe put's them in<g ref="char:EOLhyphen"/>to <hi>Chriſt's</hi> hands to keep. <hi>Rev.</hi> 1.18. <hi>I have the keys,</hi> ſaith he, <hi>of hell and death.</hi> A priviledge which he
+<pb n="63" facs="tcp:152193:56"/>may well injoy, having been the <hi>pay-maſter</hi> of all the debts, and the ſetter of the Priſoners <hi>free:</hi> though ſtill indeed it muſt be remembred, it was with <hi>Free-Grace her money.</hi>
+               </p>
+               <p>And alas! what a caſe had the poor Saints beene in, if free grace, beſides the bearing ſo great loſſes, and for<g ref="char:EOLhyphen"/>giving ſuch mighty debts due unto it ſelfe, had <hi>not done this alſo?</hi> even made an end and gotten a <hi>full</hi> acquittance from all the other cre<g ref="char:EOLhyphen"/>ditours? How did the
+<pb n="64" facs="tcp:152193:57"/>Saints <hi>groan</hi> under their many obligations; and what feares were they in continually? ſtil looking for <hi>new</hi> arreſts every hour. Juſtice for its part, and the other creditors with <hi>it,</hi> ſtood upon it, nor would they hearken to any <hi>compoſitions,</hi> or make <hi>abatements</hi> in the leaſt. As for ſuretyes, or undertakers; the <hi>whole creation</hi> could not afford them. Should they have crav'd the helpe of <hi>Angels,</hi> alas! their <hi>baile</hi> would never have beene taken, be<g ref="char:EOLhyphen"/>cauſe their <hi>riches</hi> would
+<pb n="65" facs="tcp:152193:57"/>never have amounted to any conſiderable part of payment, they might ſoone have <hi>crack'd</hi> their <hi>credits,</hi> have broken and undone themſelves upon it, but could never have <hi>taken off</hi> the debts: The poore Saints, in meane time, ſtand ga<g ref="char:EOLhyphen"/>zing upon each other, with <hi>paleneſſe</hi> in their fa<g ref="char:EOLhyphen"/>ces, with <hi>floods</hi> of teares in their eyes, and as ma<g ref="char:EOLhyphen"/>ny ſorrowes in their hearts, while they thinke of this their <hi>help<g ref="char:EOLhyphen"/>leſſe</hi> and moſt <hi>hopeleſſe</hi> condition. But behold! in <hi>this</hi> moſt pittifull and
+<pb n="42" facs="tcp:152193:58"/>deplorable a diſtreſſe, juſt in the very <hi>nick</hi> of it, Free grace com's in with her <hi>bags</hi> of <hi>untold gold,</hi> I ſay free grace (who had enter'd into <hi>bonds</hi> before) ſhe lay's downe the whole debt, in man<g ref="char:EOLhyphen"/>ner as hath beene ſaid. An act of bounty which not only out-went the former ten times over in the multiplications of new ſummes, becauſe ſo many creditors had their owne from it; but moſt of all, in that it procured a <hi>full</hi> delive<g ref="char:EOLhyphen"/>rance: take an inſtance to cleare it. If a man be
+<pb n="43" facs="tcp:152193:58"/>endebted to me ten thouſand pounds, and be alſo endebted to <hi>ma<g ref="char:EOLhyphen"/>ny</hi> other creditors, and to each of them as <hi>much</hi> as to my ſelfe; for me to forgive him mine owne debt, and that ſo great an one, even <hi>every penny</hi> of it, you will ſay 'tis a very bountifull and friendly act; but to pay downe ſo much ready money <hi>alſo</hi> in his behalf unto his <hi>other creditors,</hi> without which (not<g ref="char:EOLhyphen"/>withſtanding my forgi<g ref="char:EOLhyphen"/>ving him as concerning my ſelfe) he muſt have lay'n and <hi>rotted</hi> in pri<g ref="char:EOLhyphen"/>ſon,
+<pb n="68" facs="tcp:152193:59"/>you will acknow<g ref="char:EOLhyphen"/>ledge this is <hi>far</hi> greater bounty, and a more <hi>ex<g ref="char:EOLhyphen"/>cellent</hi> kindneſſe then the former. For perhaps you might ſuppoſe, I forgave him mine own debt, be<g ref="char:EOLhyphen"/>cauſe I could <hi>never hope</hi> to get it of him; but to anſwer for his debts to others alſo, and that in <hi>ready money,</hi> out of mine <hi>owne purſe;</hi> all that heare it, will conclude, this is a ſtrange piece of moſt <hi>ſingular</hi> liberality; yea &amp; as unparallel'd a love al<g ref="char:EOLhyphen"/>ſo. And thus hath Grace done for the poor Saints, pay'd all (as hath been
+<pb n="69" facs="tcp:152193:59"/>ſaid) with <hi>good</hi> gold and ſilver, ſhall I ſay? nay with that which is <hi>farre more precious</hi> then ſuch corruptible things, the <hi>blood</hi> of Chriſt, 1 <hi>Pet.</hi> 1.18, 19. Hence it is, that the Saints are ſaid to be <hi>bought with a price,</hi> 1 <hi>Cor.</hi> 6.20. with an <hi>honourable</hi> price, as the word is.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Yea, they are bought <hi>twice</hi> over, with a <hi>double</hi> price, they are <hi>twice</hi> ran<g ref="char:EOLhyphen"/>ſom'd, with a ranſom <hi>ſo</hi> great as hath ſatisfied <hi>all</hi> parties, and perfectly de<g ref="char:EOLhyphen"/>livered from <hi>all</hi> bonda<g ref="char:EOLhyphen"/>ges. And which yet add's to all the reſt, 'tis not a
+<pb n="66" facs="tcp:152193:60"/>ranſome for the <hi>preſent</hi> onely, but a moſt <hi>full</hi> and <hi>ſatisfying</hi> ranſome to <hi>all eternity.</hi> Indeed if a Gally-ſlave of <hi>Turky,</hi> or any other tyrant captive be once ranſomed, and ſo delivered, yet if he be taken <hi>againe,</hi> he cannot be redeemed without a <hi>new</hi> ranſome; or if a deb<g ref="char:EOLhyphen"/>ter be once diſcharged, and run into <hi>new</hi> debts, he muſt make <hi>new</hi> pay<g ref="char:EOLhyphen"/>ments, or elſe to priſon againe. But here the caſe is far otherwiſe; the ran<g ref="char:EOLhyphen"/>ſome is everlaſting, the ſatisfaction is for ever. <hi>Heb.</hi> 9.12. <hi>The blood of
+<pb n="67" facs="tcp:152193:60"/>Chriſt offered once for all, having obtained eternal re<g ref="char:EOLhyphen"/>demption.</hi> So that though ſinne in the dominion of it, may have <hi>mind</hi> enough to ſeize on the <hi>Saints,</hi> and embondage them <hi>againe,</hi> yet 'tis more then it can ever doe: And though Juſtice may <hi>ſeem</hi> to come again upon them, &amp; take them by the <hi>throat,</hi> in the ſeverall afflictions &amp; ſufferings they encoun<g ref="char:EOLhyphen"/>ter with: yet let there be no miſtake here, for it is not <hi>properly</hi> from the hand of Juſtice that the <hi>ſoreſt</hi> troubles at any time befall the Saints, as
+<pb n="72" facs="tcp:152193:61"/>though thereby it would receive ſome <hi>ſatisfaction</hi> from them, and <hi>pay</hi> it ſelf <hi>out</hi> of <hi>their ſufferings.</hi> No verily, there can be no ground for ſuch a thought as this; Juſtice being already <hi>fully</hi> and <hi>eternally ſatisfied,</hi> as con<g ref="char:EOLhyphen"/>cerning the Saints, through the death of Chriſt. It is from the hand of <hi>Grace</hi> rather, (who we may be ſure will never laſh <hi>too hard</hi>) that all theſe laſhes come; and that for ex<g ref="char:EOLhyphen"/>cellent intents and pur<g ref="char:EOLhyphen"/>poſes: as Parents when they correct their chil<g ref="char:EOLhyphen"/>dren,
+<pb n="73" facs="tcp:152193:61"/>it is not out of un<g ref="char:EOLhyphen"/>appeaſed wrath or <hi>hatred</hi> to their perſons, but out of tendereſt care &amp; love. <hi>Heb.</hi> 12.5,—12. Well then, we have ſeen ſom<g ref="char:EOLhyphen"/>what more of the riches of Grace in the <hi>ranſome</hi> it lay's down for the Saints. <hi>The ranſome of a mans life are his</hi> [owne] <hi>riches,</hi> ſaith <hi>Solomon, Pro.</hi> 13.8. but the <hi>ranſome</hi> of the <hi>Saints</hi> lives, are the <hi>Riches of Grace.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="74" facs="tcp:152193:62"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Of the <hi>expences</hi> which Free grace is at in <hi>maintaining</hi> of the Saints.</p>
+               </argument>
+               <p>THe fourth channell through which the <hi>riches</hi> of Grace run unto the Saints, is its <hi>expence</hi> in maintaining of them. Conſider at what a <hi>rate</hi> they live, how <hi>Prince<g ref="char:EOLhyphen"/>like</hi> they are, as well in their <hi>breeding</hi> as in their <hi>birth.</hi>
+               </p>
+               <p>Firſt, for their <hi>apparel,</hi>
+                  <pb n="75" facs="tcp:152193:62"/>how ſumptuous is it? Grace cloth's them all with cloth of <hi>gold,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>In reca<g ref="char:EOLhyphen"/>mat is.</hi> Ar. Mon. <hi>Cum phry<g ref="char:EOLhyphen"/>gianis.</hi> Jun. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Auri ocel<g ref="char:EOLhyphen"/>laturis vel</hi> polymitis aureis <hi>in<g ref="char:EOLhyphen"/>duta.</hi> Ar. Mont. Fundis aureis <hi>ve<g ref="char:EOLhyphen"/>ſtita.</hi> Jun.</note> yea with <hi>wrought gold, and rayment of needle-work. Pſal.</hi> 45.13, 14. <hi>Wrought</hi> gold ſuppoſeth ſome<g ref="char:EOLhyphen"/>thing <hi>richer</hi> then gold a<g ref="char:EOLhyphen"/>lone; as if <hi>embroydered</hi> over with pearle, or <hi>enouched</hi> with diamonds, as ſome Criticks would ſeem to underſtand from the Originall word, which is tranſlated All glorious <hi>within;</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> as if it came from that word, which ſometimes ſigni<g ref="char:EOLhyphen"/>fy's a precious ſtone cut with angles. M. <hi>Ainſworth</hi>
+                  <pb n="76" facs="tcp:152193:63"/>thus, <hi>Her clothing is of purled works of gold, in em<g ref="char:EOLhyphen"/>broideries ſhe ſhall be led, &amp;c. ſuch purled works,</hi> (ſaith he) <hi>or ſuch grounds, and cloſures of gold, as pre<g ref="char:EOLhyphen"/>cious ſtones are ſet in, Exo.</hi> 28.11, 14. But what ever it be, we ſee 'tis very <hi>brave,</hi> for what <hi>more</hi> can be ſaid even of a Kings roabes, then that as they are moſt rich in their <hi>ſtuffe,</hi> ſo moſt <hi>coſtly</hi> is their <hi>make,</hi> by the very phraſes here uſed, <hi>viz. needle-work</hi> and <hi>wrought gold,</hi> what leſſe can we underſtand, then the ve<g ref="char:EOLhyphen"/>ry <hi>curioſity</hi> of skill, and
+<pb n="77" facs="tcp:152193:63"/>the excellency of con<g ref="char:EOLhyphen"/>trivement by the <hi>finger</hi> of <hi>grace</hi> it ſelfe, in <hi>ornify<g ref="char:EOLhyphen"/>ing</hi> the ſuits which the Saints weare. <hi>Ezek.</hi> 16.7, 10,—13. <hi>Thou art come to excellent ornaments,</hi> ſaith he of his beloved Church, <hi>I clothed thee with broydered work, I gir<g ref="char:EOLhyphen"/>ded thee about with fine linnen, and I covered thee with ſilk, I decked thee alſo with ornaments, and I put bracelets upon thine hands, and a chaine on thy neck, and I put a jewel on thy forehead, and ear rings in thine eares; thus waſt thou decked with gold and
+<pb n="78" facs="tcp:152193:64"/>ſilver, and thy rayment was of fine linnen and ſilk, and broydered work.</hi> How apt<g ref="char:EOLhyphen"/>ly may this be applyed to our ſenſe in hand, at leaſt wiſe by way of allu<g ref="char:EOLhyphen"/>ſion? for as rich parents that have <hi>goodly</hi> children which they <hi>dearly</hi> love, are wont to put <hi>comely</hi> garments upon their backs, and <hi>bedeck</hi> them with rings, jewels, brace<g ref="char:EOLhyphen"/>lets, with chains of pearl and diamonds, the better to ſet off theſe <hi>fondlings</hi> of theirs, to the <hi>eye</hi> of all beholders; <hi>eſpecially</hi> if in the way of preferment, if it be <hi>wooing</hi> time, and
+<pb n="79" facs="tcp:152193:64"/>they have hopes of good <hi>matches</hi> for them: even ſo doth <hi>Grace</hi> with <hi>her</hi> darlings, ſet them off with beſt advantage, with <hi>all</hi> their <hi>finery</hi> and <hi>jewels</hi> on them. And good reaſon too; for <hi>now</hi> is the time of their preferment, and of their growing <hi>acquainted</hi> with that great <hi>Heire</hi> of glory which they muſt one day marry. <hi>Jeſus Chriſt</hi> go's <hi>brave</hi> himſelf, as 'tis meet he ſhould, for he is the <hi>Prince</hi> of heaven, <hi>Heb.</hi> 1.13. <hi>girt about the paps with a golden girdle, Mar.</hi> 9.2, 3. <hi>He was transfigured before
+<pb n="80" facs="tcp:152193:65"/>them, and his raiment be<g ref="char:EOLhyphen"/>came ſhining, even white as ſnow:</hi> like unto Prin<g ref="char:EOLhyphen"/>ces, with whom the ma<g ref="char:EOLhyphen"/>ner was to be clad in white, <hi>Eſth.</hi> 8.15. The very ſervants which at<g ref="char:EOLhyphen"/>tend Princes weare <hi>gor<g ref="char:EOLhyphen"/>geous apparell, Luk.</hi> 7.25. how <hi>much more</hi> then the <hi>favourites;</hi> yea, the <hi>Royall Conſorts</hi> themſelves, who are wont to <hi>live</hi> in their Soveraign's <hi>armes?</hi> Though the Sonne <hi>lov's</hi> all that the Father re<g ref="char:EOLhyphen"/>commend's to him, none <hi>ſo</hi> well, and which is yet more, none <hi>elſe;</hi> yet he is of a <hi>curious</hi> eye, and
+<pb n="81" facs="tcp:152193:65"/>muſt be <hi>pleaſed.</hi> He lov's to ſee his beloved ones <hi>handſome</hi> in their attire, becauſe 'tis <hi>them</hi> his <hi>heart</hi> is ſet upon, and which he hath choſen unto him ſelfe as an eternal object of his affections &amp; ſweet embraces. How was he <hi>taken</hi> at the ſight of his Spouſe, when ſhe appea<g ref="char:EOLunhyphen"/>red to him with her <hi>chain</hi> about her neck? <hi>Cant.</hi> 4.9. <hi>Thou haſt raviſhed my heart, my ſiſter, my ſpouſe, thou haſt raviſhed my heart with one of thine eyes, with the chaine of thy necke.</hi> Mark the expreſſion, 'tis not, with one of thine
+<pb n="82" facs="tcp:152193:66"/>
+                  <hi>eyes only,</hi> but the <hi>chaine</hi> of thy neck <hi>alſo.</hi> Is the <hi>per<g ref="char:EOLhyphen"/>ſon</hi> of <hi>Heſter</hi> ſet apart for the <hi>pleaſure</hi> and <hi>delight</hi> of the King? Then ſhe muſt have <hi>ornaments</hi> and <hi>perfumes</hi> accordingly, though it be at the King's <hi>own</hi> coſt. And ve<g ref="char:EOLhyphen"/>rily herein, if <hi>Ahaſuerus</hi> was not, yet <hi>Iſaac</hi> was a <hi>type</hi> of <hi>Chriſt,</hi> when hee ſent <hi>jewels of gold, eare<g ref="char:EOLhyphen"/>rings and bracelets to his Rebecca, Gen.</hi> 24.22. yet whatever 'tis that even <hi>Chriſt</hi> himſelfe either ſend's or bring's in this kinde, to his <hi>eſpouſed</hi> Saints, 'tis from the <hi>hand</hi>
+                  <pb n="83" facs="tcp:152193:66"/>and at the <hi>coſt</hi> of <hi>Grace,</hi> her <hi>purſe</hi> find's all. And becauſe Grace will be ſure, that the clothing and very <hi>dreſſe</hi> of the Saints, ſhall in all points be <hi>pleaſing</hi> to the <hi>eye</hi> of <hi>Chriſt,</hi> therefore 'tis all ſpun of the very <hi>ſame</hi> threed, cut out of the ve<g ref="char:EOLhyphen"/>ry <hi>ſame</hi> piece, made up in the very <hi>ſame</hi> ſhape &amp; faſhion, that his <hi>owne</hi> garments are. <hi>Rev.</hi> 19.7. <hi>The marriage of the Lambe is come, and his wife hath made her ſelfe ready,</hi> (viz. <hi>in preparation for this mar<g ref="char:EOLhyphen"/>riage day) and to her was granted that ſhe ſhould be
+<pb n="84" facs="tcp:152193:67"/>arrayed in fine linnen, clean and white, for the fine linnen is the righteouſneſſe of Saints:</hi> Which righte<g ref="char:EOLhyphen"/>ouſneſſe of Saints, what is it elſe, but the righ<g ref="char:EOLhyphen"/>teouſneſſe of Chriſt? thoſe garments of his that <hi>ſmell of myrrhe, aloes and caſsia, Pſal.</hi> 45.8. theſe are the Saints robes, <hi>ſtately</hi> and rich indeed, the <hi>verdure</hi> of whoſe beauty and glory, that it might for ever keep <hi>freſh</hi> &amp; <hi>new</hi> without the leaſt ſtaine and ſpot upon it, therefore grace hath <hi>waſhed</hi> them in ſuch a <hi>laſting</hi> die, that can never
+<pb n="85" facs="tcp:152193:67"/>out, <hi>viz. the blood of the Lambe, Rev.</hi> 7.14. Well therefore may the Church ſing as ſhee doth, <hi>I will greatly rejoyce in the Lord, my ſoule ſhall be joyfull in my God: for he hath clothed me with the garments of ſalvation, he hath covered me with the robe of righteouſneſſe, as a Bridegroome decketh him<g ref="char:EOLhyphen"/>ſelfe with ornaments, and as a bride adorneth her ſelf with her jewels,</hi> Eſay 61.10.</p>
+               <p>Secondly, as the Saints <hi>go gorgeouſly</hi> at the <hi>Coſt</hi> of Grace, ſo they <hi>eat delicately,</hi> and live
+<pb n="86" facs="tcp:152193:68"/>high. Anſwerable to their <hi>garbe</hi> is their <hi>dyet.</hi> Their very <hi>bread</hi> is the bread of Heaven. <hi>Joh.</hi> 6.51. <hi>I am the living bread which came downe from Heaven.</hi> Food for Angels, yea, and better then any they have, for Angels have not the <hi>body</hi> and <hi>blood</hi> of Jeſus Chriſt to feed upon, as the Saints have. We find in the ſong of <hi>Moſes, Deut.</hi> 33.14. that it was rec<g ref="char:EOLhyphen"/>koned among the privi<g ref="char:EOLhyphen"/>ledges of the Jewes, that they did eat of the <hi>fat</hi> of the <hi>kidneys</hi> of wheate, as they had
+<pb n="87" facs="tcp:152193:68"/>
+                  <hi>ſweet Manna</hi> in the wil<g ref="char:EOLhyphen"/>derneſſe, ſo they had <hi>pure manchet</hi> in Canaan, and in <hi>both</hi> of them <hi>re<g ref="char:EOLhyphen"/>preſentative</hi> of <hi>this</hi> living bread from Heaven: ſuch a bread as ſerv's not only for the Saints <hi>neceſsity,</hi> but for their <hi>delight.</hi> And if the very <hi>bread</hi> of the Saints be ſo <hi>dainty,</hi> what ſhall we thinke of their <hi>other vi<g ref="char:EOLhyphen"/>ands?</hi> of the <hi>fatneſſe</hi> which they meet with <hi>in God's houſe? Pſal.</hi> 36.8. The <hi>fat things full of mar<g ref="char:EOLhyphen"/>row, Eſay</hi> 25.6. We read of <hi>Aſher,</hi> that out of him, as his <hi>bread</hi> ſhall be <hi>fat;</hi>
+                  <pb n="88" facs="tcp:152193:69" rendition="simple:additions"/>ſo he ſhall yeeld <hi>royall daintyes. Gen.</hi> 49.20. we may here well allude to it. 'Tis worth the ob<g ref="char:EOLhyphen"/>ſerving, <hi>Pſal.</hi> 37.3, 4. what a <hi>ſignificant</hi> terme is uſed, and in <hi>what</hi> con<g ref="char:EOLhyphen"/>nexion. v. 3. ſaith he, <hi>Truſt in the Lord and veri<g ref="char:EOLhyphen"/>ly thou ſhalt be fed,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Paſcere fi<g ref="char:EOLhyphen"/>de. <hi>Jun. i.</hi> ex fide vive.</note> i. e. thou needſt take no care for proviſions to live up<g ref="char:EOLhyphen"/>on Or as M <hi>Ainſworth</hi> read's it <hi>feed on Faith,</hi> i.e. nouriſh thy ſelfe and live by it; <hi>for the juſt man li<g ref="char:EOLhyphen"/>veth by his faith. Habak.</hi> 2.4. and then marke what follow's, <hi>Delight thy ſelfe alſo in the Lord.</hi>
+                  <pb n="89" facs="tcp:152193:69"/>v. 4. The word is excee<g ref="char:EOLhyphen"/>ding <hi>Emphaticall,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (as ſome will have it) from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſuit, placentas propriè.</hi>
+                  </note> delight thy ſelfe in the Lord, that is, <hi>ſatiate</hi> thy ſelf, <hi>pleaſe</hi> thy <hi>pallat,</hi> be <hi>filled</hi> with an holy <hi>gluttony,</hi> be as the hungry <hi>ſenſualiſt</hi> is at the <hi>ſweet-meats</hi> and <hi>made diſhes</hi> that are be<g ref="char:EOLhyphen"/>fore him. Such a kind of <hi>pleaſure</hi> 'twas that the <hi>heart</hi> of <hi>David fed</hi> upon, when he uttered thoſe words, oh taſt and ſee <hi>how</hi> good, or <hi>how</hi> ſweet, the Lord is! <hi>Pſal.</hi> 34.8. a ſpeech which we know is uſall to the next that ſi 's by: when a man meet's with ſome excel<g ref="char:EOLhyphen"/>lent
+<pb n="90" facs="tcp:152193:70"/>diſh w<hi rend="sup">ch</hi> he looked not for. And <hi>ſuch</hi> diſhes do the Saints <hi>meal</hi> upon continually. The very <hi>water</hi> that they drink, is it not out of <hi>ſprings</hi> that bubble up <hi>eternall life? Joh.</hi> 4.10. What then are their <hi>wines?</hi> yea, and their ſtreames of <hi>honey,</hi> with the <hi>milke</hi> of the flowing breaſts they ſuck? as their <hi>bread</hi> (we heard) is of the <hi>fat</hi> of the <hi>kidneys</hi> of <hi>wheat,</hi> ſo their <hi>wines</hi> are the <hi>pure blood of the grape,</hi> to al<g ref="char:EOLhyphen"/>lude againe to that in <hi>Deuter.</hi> 32.14. yea, and <hi>over</hi> and <hi>above</hi> their
+<pb n="91" facs="tcp:152193:70"/>wines are <hi>ſpiced, mingled</hi> wines; not only <hi>brew'd</hi> out of Chriſts <hi>blood,</hi> but alſo <hi>ſweetned</hi> with the <hi>ſugar</hi> of his <hi>love,</hi> mingled with bowels of compaſ<g ref="char:EOLhyphen"/>ſion. <hi>Wines upon the lees, well refined,</hi> that are <hi>vigo<g ref="char:EOLhyphen"/>rous, ſparkling</hi> &amp; <hi>ful</hi> of re<g ref="char:EOLhyphen"/>vivement; they ſay <hi>burnt</hi> wine is a cordiall, 'tis true of this wine of the Saints, w<hi rend="sup">ch</hi> is <hi>heated</hi> with the <hi>flames</hi> of divine love; therefore well may it paſſe for a <hi>Royall</hi> wine, as thoſe wines were, which we read of, in <hi>Eſth</hi> 1.7. ſee and compare, <hi>Deuter.</hi> 32.14. <hi>Prov.</hi> 9.2. <hi>Eſay</hi>
+                  <pb n="62" facs="tcp:152193:71"/>25.6. Their <hi>honey,</hi> it is of the <hi>ſweeteſt</hi> and <hi>pureſt ſtraine, honey out of the rock, viz.</hi> the rock <hi>Chriſt Jeſus,</hi> ſucked immedi<g ref="char:EOLhyphen"/>ately from thence, <hi>Deut.</hi> 32.13. and from the <hi>ho<g ref="char:EOLunhyphen"/>ney-combe</hi> of the <hi>Goſpel,</hi> the bleſſed <hi>word</hi> of <hi>grace,</hi> which is <hi>ſweeter then the honey and the honey combe, Pſal.</hi> 19.10. Their <hi>milke</hi> is <hi>ſincere, full</hi> of <hi>creame,</hi> battening and nouriſh<g ref="char:EOLhyphen"/>ing, ſuch as giv's both <hi>preſent ſatisfaction,</hi> and <hi>future growth. Eſay</hi> 66.11. <hi>That ye may milk out and be ſatisfied with the breaſts of her conſolations.</hi> 1 <hi>Pet.</hi> 2.2.
+<pb n="93" facs="tcp:152193:71"/>
+                  <hi>As new borne babes deſire the ſincere milk of the Word, that ye may grow thereby.</hi> All theſe with what ever other proviſi<g ref="char:EOLhyphen"/>ons the hand of Grace miniſters unto the Saints, are miniſtred to them in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>plentifulneſſe,</hi> equall to their <hi>variety. Prov.</hi> 9.2. <hi>She furniſheth her table</hi> with <hi>full</hi> feaſts, <hi>Eſay.</hi> 25.6. with <hi>ſtore</hi> and <hi>great</hi> a<g ref="char:EOLhyphen"/>bundance, that the eaters may be <hi>abundantly</hi> ſatis<g ref="char:EOLhyphen"/>fied, and drink as <hi>freely</hi> as out of <hi>rivers Pſa.</hi> 36.8. <hi>They ſhall be abundantly ſa<g ref="char:EOLhyphen"/>tisfied with the fatneſſe of thy houſe, and thou ſhalt
+<pb n="94" facs="tcp:152193:72"/>make them drink of the ri<g ref="char:EOLhyphen"/>vers of thy pleaſures.</hi> Grace deal's not with a <hi>ſparing</hi> hand, but liberally, and with <hi>hearty</hi> welcome. <hi>Eate oh friends, drink, yea drink abundantly oh belo<g ref="char:EOLhyphen"/>ved, Can.</hi> 5.1. drink <hi>drunk,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Inebriate.</hi> Ar. Mon. <hi>Inebria<g ref="char:EOLhyphen"/>mini.</hi> Jun.</note> as the word imports, be you filled with an holy <hi>exceſſe,</hi> as is intimated <hi>Epheſ.</hi> 5.18. When <hi>Aha<g ref="char:EOLhyphen"/>ſuerus</hi> made a feaſt for his Nobles, 'twas of <hi>long</hi> continuance, and <hi>according to the ſtate of the King, Eſth.</hi> 1.7. Grace doth ſo likewiſe; the ve<g ref="char:EOLhyphen"/>ry <hi>fragments</hi> of <hi>her</hi> board would feed thouſands.
+<pb n="95" facs="tcp:152193:72"/>
+                  <hi>Mat.</hi> 14.20. <hi>And they did all eate and were ſatisfied, and they took up of the frag<g ref="char:EOLhyphen"/>ments that remained twelve baskets full.</hi> How many ſweet meales might be made of the Saints <hi>lea<g ref="char:EOLhyphen"/>vings?</hi> time was when the very <hi>crums</hi> under Grace her table, gave a <hi>full</hi> meale to a daughter of Canaan, <hi>Mat.</hi> 15.27.</p>
+               <p>Thirdly, the habitati<g ref="char:EOLhyphen"/>on of the Saints, the very <hi>houſing</hi> which Grace hath built o're their heads, in the ſumptuouſ<g ref="char:EOLhyphen"/>neſſe thereof, is no whit inferiour to their garbe and diet. They ſit in hea<g ref="char:EOLhyphen"/>venly
+<pb n="96" facs="tcp:152193:73"/>places with Chriſt Jeſus. <hi>Eph.</hi> 2.6. <hi>And hath made us ſit together in hea<g ref="char:EOLhyphen"/>venly places in Chriſt Je<g ref="char:EOLhyphen"/>ſus.</hi> Their habitation is on <hi>high,</hi> even within the <hi>ſecret</hi> of the Almighty, <hi>Pſal.</hi> 91.1. <hi>Lord thou haſt been our dwelling-place in all generations, Pſal.</hi> 90.1. As if he had ſaid, when we have had <hi>no hole</hi> to put our heads in, <hi>no rocks</hi> to run unto, <hi>no towers</hi> to be ſafe in; we have found both a <hi>ſafe</hi> and <hi>glorious habitation</hi> with-thee, in the very <hi>ſecret</hi> of thy pa<g ref="char:EOLhyphen"/>vilion; thou haſt admit<g ref="char:EOLhyphen"/>ted us even <hi>there</hi> where
+<pb n="97" facs="tcp:152193:73"/>thou ſitteſt in moſt <hi>mag<g ref="char:EOLhyphen"/>nificent ſtate,</hi> and where <hi>onely</hi> thou giveſt acceſſe to the <hi>friends</hi> of thy <hi>heart.</hi> Oh how <hi>glorious</hi> a <hi>palace</hi> have <hi>they,</hi> who thus <hi>dwell</hi> in God? yet 'tis a priviledge, com<g ref="char:EOLhyphen"/>mon even to the meaneſt Saint, ſuch as ſcarce have <hi>cottages</hi> in <hi>this</hi> world. While their bo<g ref="char:EOLhyphen"/>dies lodge but in houſes of clay, yet even then their <hi>nobler</hi> part, <hi>viz.</hi> their <hi>mind</hi> and <hi>ſpirit</hi> in<g ref="char:EOLhyphen"/>habit's <hi>higher.</hi> They have buildings in <hi>another</hi> world, (which alſo they dwell in at preſent,
+<pb n="98" facs="tcp:152193:74"/>(though here below) <hi>ſo bright</hi> and <hi>ſhining,</hi> that even <hi>Angels</hi> are <hi>dazled</hi> to behold them. For <hi>our converſation is in heaven,</hi> ſaith the Apoſtle, <hi>Philip.</hi> 3.20. and in an <hi>higher</hi> part of heaven then ever the <hi>Angels</hi> attained unto, even <hi>neerer</hi> God. The very <hi>firſt</hi> ſtone laid in the Saints buildings, how <hi>precious</hi> is it? 1 <hi>Pet.</hi> 2.6. <hi>He is the chief corner ſtone, elect and precious.</hi> 1 <hi>Cor.</hi> 3.12. <hi>Other foundation can no man lay, then that which is laid, Jeſus Chriſt.</hi> And <hi>anſwerable</hi> to the <hi>founda<g ref="char:EOLhyphen"/>tion</hi> is the <hi>whole ſtructure,</hi>
+                  <pb n="99" facs="tcp:152193:74"/>all <hi>poliſhed</hi> from top to bottome, moſt <hi>goodly</hi> to behold, ſo that the very ſpectators that paſſe by, <hi>Zach.</hi> 4.7. being <hi>filled</hi> with admiration at the luſtre of it, lift up their ſhouts, and cry, <hi>Grace, grace unto it.</hi> So that all thoſe <hi>faire colours, foun<g ref="char:EOLhyphen"/>dations of Saphirs, windows of Agats, gates of carbun<g ref="char:EOLhyphen"/>cles, with borders of all pleaſant ſtones,</hi> mentioned <hi>Eſay</hi> 54.11, 12. with <hi>all</hi> other the <hi>like</hi> expreſſi<g ref="char:EOLhyphen"/>ons, are uſed but as <hi>me<g ref="char:EOLhyphen"/>taphors,</hi> the more lively to ſet it out. And as this <hi>habitation</hi> of the Saints,
+<pb n="100" facs="tcp:152193:75"/>which <hi>Free-grace</hi> at her <hi>owne</hi> proper coſt and charge hath raiſed for them, is moſt <hi>richly</hi> built; ſo it is an <hi>huge</hi> and <hi>vaſt</hi> thing, and ſo in <hi>that</hi> ſenſe as <hi>ſtately</hi> &amp; magnificent as in the <hi>other.</hi> For the Saints are all children of the <hi>ſame</hi> wombe, &amp; they <hi>love</hi> each other dearly, <hi>ſo</hi> dearly, that they will never by their <hi>good will</hi> be <hi>apart</hi> or dwell aſun<g ref="char:EOLhyphen"/>der. Now Grace <hi>lov's</hi> to ſee <hi>ſuch</hi> a diſpoſition in them, and therefore to ſuit it accordingly, ſhe hath made <hi>one</hi> houſe <hi>big</hi> enough to hold them <hi>all,</hi>
+                  <pb n="101" facs="tcp:152193:75"/>that they may be <hi>all</hi> un<g ref="char:EOLhyphen"/>der one roofe. So far &amp; wide doth this <hi>glorious edifice</hi> enlarge it ſelfe (having multitudes of roomes to ſpare in it for new commers) that it grow's into a <hi>City,</hi> and that a <hi>mighty</hi> one; a city as <hi>big</hi> as a Kingdome. <hi>Heb.</hi> 11.16. <hi>He hath pre<g ref="char:EOLhyphen"/>pared for them a City. Mat.</hi> 25.34. <hi>Come ye bleſſed of my Father, inherit the Kingdome prepared for you. Prepared,</hi> it intimat's a kind of <hi>extraordinary</hi> thoughtfulneſſe for the building of it; that the <hi>materials,</hi> the <hi>faſhion</hi> of it,
+<pb n="102" facs="tcp:152193:76"/>and <hi>all</hi> that belongs to it might be <hi>ſumptuous.</hi> As <hi>David</hi> ſpeaks, 1 <hi>Chro.</hi> 29.2, 3. <hi>Moreover,</hi> ſaith he, <hi>becauſe I have ſet my affe<g ref="char:EOLhyphen"/>ction to the houſe of my God, I have prepared with all my might, gold, ſilver, onyx ſtones, and ſtones to be ſet, gliſtering ſtones, and of di<g ref="char:EOLhyphen"/>vers colours, and all manner of precious ſtones, &amp;c.</hi> ſo Grace did, when ſhe built <hi>Heaven</hi> for the Saints, ſhe <hi>knew who</hi> were to dwell there one day, and therefore ſhe ſpar's neither <hi>coſt</hi> nor <hi>art;</hi> ſhe provid's her <hi>gold</hi> and <hi>pre<g ref="char:EOLhyphen"/>cious ſtones</hi> to build with,
+<pb n="103" facs="tcp:152193:76"/>pearles <hi>ſo fair</hi> and <hi>goodly,</hi> that the mighty gates of the City, each of them, were but of <hi>one entire pearle;</hi> and the very <hi>ſtreets</hi> thereof <hi>paved</hi> with no worſe then <hi>pure gold, as bright as tranſparent glaſſe, Rev.</hi> 21.21. But <hi>this</hi> is not all, for that the <hi>hous ſhold ſtuffe</hi> and <hi>furniture</hi> might be ſuitable to the <hi>building:</hi> the very <hi>ſpoones</hi> and <hi>diſhes,</hi> yea, the <hi>candle<g ref="char:EOLhyphen"/>ſticks</hi> and <hi>ſnuffers,</hi> (and that but in the type one<g ref="char:EOLhyphen"/>ly) are <hi>all</hi> of <hi>pure gold, Exod.</hi> 25.38. And if <hi>theſe</hi> ſo rich, what then may we judge of the more
+<pb n="104" facs="tcp:152193:77"/>
+                  <hi>Noble</hi> utenſils, of the <hi>veſ<g ref="char:EOLhyphen"/>ſels</hi> of <hi>honour,</hi> and the <hi>hangings</hi> wherewith the rooms are furniſhed?</p>
+               <p>Fourthly, free-grace, which <hi>thus cloth's, feed's,</hi> and <hi>houſeth</hi> the Saints in glory and ſtate, is not <hi>ſparing</hi> to them any other way, ſhe put's <hi>ſtore</hi> of <hi>mo<g ref="char:EOLhyphen"/>ney</hi> into their <hi>purſes</hi> alſo. Parents that love their children, and are at <hi>great</hi> expences with them o<g ref="char:EOLhyphen"/>therwiſe, are not wont to <hi>pinch</hi> them in <hi>this</hi> re<g ref="char:EOLhyphen"/>ſpect; but make allow<g ref="char:EOLhyphen"/>ance to them with ſuch a free and liberal hand, that abhorring <hi>baſeneſſe,</hi>
+                  <pb n="105" facs="tcp:152193:77"/>they may carry it out with a <hi>generous</hi> and <hi>wor<g ref="char:EOLhyphen"/>thy</hi> ſpirit. The <hi>ſame</hi> rule free-grace obſerveth al<g ref="char:EOLhyphen"/>ſo, never let's the Saints want money, no not the <hi>pooreſt</hi> of them; ſhe ſtor's them with <hi>good gold</hi> and <hi>ſilver,</hi> ſee elſe, <hi>Job</hi> 22.23, 24, 25. <hi>If thou returne to the Almighty, then ſhalt thou lay up gold as duſt, and the gold of Ophir as the ſtones of the brookes; yea the Almighty ſhall be thy moſt choiſe gold,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Lectiſſinu<g ref="char:cmbAbbrStroke">̄</g> aurum tuum.</note> (ſo <hi>Junius</hi> read's it) <hi>and thou ſhalt have plenty of ſilver.</hi> So that the Saints know <hi>no</hi> want, no not the <hi>meaneſt,</hi>
+                  <pb n="106" facs="tcp:152193:78"/>or <hi>youngeſt</hi> of them; they <hi>all</hi> have enough, as well in their <hi>Nonage</hi> as in their <hi>full age.</hi> They are <hi>rich in faith, Jam.</hi> 2.5. <hi>rich in good works,</hi> 1 <hi>Tim.</hi> 6.18. <hi>rich in precious promiſes,</hi> 1 <hi>Pet.</hi> 1.4. <hi>rich</hi> in the ſa<g ref="char:EOLhyphen"/>ving <hi>knowledge</hi> of the <hi>word</hi> of life, which dwel's in them <hi>richly,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Col.</hi> 3.16. Their money is <hi>currant</hi> in heaven, though few will receive it for good coyne in <hi>this</hi> world.</p>
+               <p>Fiftly, agreeable to theſe things are all the reſt. The very <hi>attendants</hi> upon the Saints, how <hi>high</hi> and <hi>noble</hi> are they?
+<pb n="107" facs="tcp:152193:78"/>a traine ſo glorious, that even <hi>greateſt Emperours</hi> may <hi>veile</hi> unto: for <hi>An<g ref="char:EOLhyphen"/>gels</hi> wait on them. <hi>Heb.</hi> 1.12. <hi>Are they not all mini<g ref="char:EOLhyphen"/>ſtring ſpirits, ſent forth to miniſter unto them, who ſhall be heires of ſalva<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>Doth it pleaſe the Saints at any time to ride out, and take a <hi>pro<g ref="char:EOLhyphen"/>ſpect</hi> abroad in the com<g ref="char:EOLhyphen"/>pany of that <hi>Royall</hi> lover which Grace hath <hi>eſpou<g ref="char:EOLhyphen"/>ſed</hi> them unto? Behold, <hi>his owne charret</hi> is ready for them, with all the equipage thereof. <hi>Cant.</hi> 3.9, 10. <hi>King Solomon
+<pb n="108" facs="tcp:152193:79"/>made himſelfe a charret of the wood of Lebanon. He made the pillars thereof of ſilver, the bottome thereof of gold, the covering there<g ref="char:EOLhyphen"/>of of purple, the midſt thereof being paved with love, for the daughters of Jeruſalem.</hi>
+               </p>
+               <p>To <hi>all</hi> this, what <hi>ri<g ref="char:EOLhyphen"/>ches</hi> of Grace goe? <hi>be<g ref="char:EOLhyphen"/>ſides</hi> thoſe <hi>incident exper<g ref="char:EOLhyphen"/>ces</hi> that occaſionally a<g ref="char:EOLhyphen"/>riſe; for as 'tis in a great family, if there be <hi>many</hi> ſicke in it, or lye hurt or wounded, weake and diſeaſed, <hi>eſpecially</hi> if they be the <hi>prime</hi> peeces, the <hi>beſt</hi> beloveds, the <hi>deare
+<pb n="109" facs="tcp:152193:79"/>children,</hi> and <hi>thoſe</hi> whoſe lives are <hi>moſt</hi> deſireable on all ſides; what <hi>coſt</hi> is ſpared? Nay what <hi>coſt</hi> is not moſt induſtriouſ<g ref="char:EOLhyphen"/>ly improved, and that <hi>all</hi> the wayes that can be imagined, for the reco<g ref="char:EOLhyphen"/>very of them? no <hi>Chi<g ref="char:EOLhyphen"/>rurgery, Phyſicke, choiſe proviſions,</hi> moſt <hi>helpfull</hi> attendants neglected, night or day; how many a rich man hath <hi>beggar'd</hi> himſelfe in coſtly reme<g ref="char:EOLhyphen"/>dies on his owne crazy body? or upon the bo<g ref="char:EOLhyphen"/>dy of his deare wife or child? <hi>Bezar ſtones, diſ<g ref="char:EOLhyphen"/>ſolv'd gold magiſteriall
+<pb n="110" facs="tcp:152193:80"/>pearle,</hi> with a thouſand ſuch like <hi>precious</hi> ingre<g ref="char:EOLhyphen"/>dients have beene as common things, in <hi>ſuch</hi> caſes as theſe are. And juſt ſo it is among the Saints, how <hi>many</hi> of them often lye thus, <hi>ſick</hi> and <hi>wounded, weake</hi> and <hi>feeble</hi> under the hand of Grace? <hi>alwayes ailing</hi> ſomething, either <hi>heads</hi> ake, or <hi>hearts</hi> ake, <hi>this</hi> member is wounded, and <hi>that</hi> is out of joynt; the <hi>eyes</hi> are ſore, the <hi>ſto<g ref="char:EOLhyphen"/>mack's</hi> ill, the <hi>ſpirits</hi> faint, of one or other of them continually: no<g ref="char:EOLhyphen"/>thing but complaining
+<pb n="111" facs="tcp:152193:80"/>among them, and crying out for <hi>playſters,</hi> for <hi>cor<g ref="char:EOLhyphen"/>dials,</hi> for <hi>ſome</hi> good thing, <hi>this</hi> or <hi>that</hi> which they may be able to di<g ref="char:EOLhyphen"/>geſt: all theſe <hi>free-grace</hi> hath the <hi>care</hi> and the <hi>charge</hi> of; whoſe very looking to, with the re<g ref="char:EOLhyphen"/>medies that are apply'd, amount's to full as <hi>much,</hi> if not to much more, then <hi>all</hi> the <hi>disburſments</hi> upon the <hi>others</hi> that are more healthfull. When free grace com's among her wounded patients in her <hi>Chriſt's hoſpitall;</hi> ſhe com's, with no <hi>common</hi> ſalves; <hi>no balmes</hi> are ap<g ref="char:EOLhyphen"/>plyed
+<pb n="112" facs="tcp:152193:81"/>by her hand, but the very <hi>balmes</hi> of Hea<g ref="char:EOLhyphen"/>ven; no others can ſerve the turne, to worke the <hi>cares</hi> that <hi>ſhe</hi> mean's to make. No cordials of <hi>her</hi> adminiſtring, but what have beene pre<g ref="char:EOLhyphen"/>pared by her <hi>owne</hi> hand and skill, in her owne <hi>A<g ref="char:EOLhyphen"/>pothecaries ſhop,</hi> and ap<g ref="char:EOLhyphen"/>plyed at the <hi>ſole</hi> dire<g ref="char:EOLhyphen"/>ction of the great Phyſi<g ref="char:EOLhyphen"/>tion of ſoules, JESVS CHRITT.</p>
+               <p>Now lay <hi>all</hi> together, the <hi>loſſes,</hi> the <hi>forgivings,</hi> the <hi>ranſomes,</hi> the <hi>expences</hi> of Grace in behalfe of the Saints: conſider but
+<pb n="113" facs="tcp:152193:81"/>how much it is <hi>all</hi> theſe wayes out of purſe, and then ſpeak what you thinke of the <hi>riches</hi> of it.</p>
+               <p>But yet <hi>all</hi> this is <hi>no<g ref="char:EOLhyphen"/>thing</hi> to what may be <hi>farther</hi> ſaid, in conſidera<g ref="char:EOLhyphen"/>tion of the moſt <hi>ineſtima<g ref="char:EOLhyphen"/>ble</hi> worth of thoſe <hi>rich</hi> &amp; <hi>precious</hi> things, which free grace may be ſaid to beſtow upon the Saints, <hi>more properly</hi> by way of <hi>gift.</hi> A view whereof (as in <hi>one</hi> treaſu<g ref="char:EOLhyphen"/>ry where <hi>all</hi> ly's) wee ſhall take, by conſider<g ref="char:EOLhyphen"/>ing the <hi>love</hi> of God, and that <hi>kind</hi> heart of his, which his owne ſtrong
+<pb n="114" facs="tcp:152193:82"/>and moſt deare affection hath ſo abundantly fil<g ref="char:EOLhyphen"/>led with <hi>ſweeteſt</hi> inclina<g ref="char:EOLhyphen"/>tions <hi>towards,</hi> and moſt <hi>glorious</hi> intentions <hi>concer<g ref="char:EOLhyphen"/>ning</hi> the <hi>Saints.</hi>
+               </p>
+               <p>Which moſt <hi>precious</hi> and <hi>glorious love,</hi> that it may the more <hi>cleerly ſhine</hi> out unto us; it will be ne<g ref="char:EOLhyphen"/>ceſſary to open the mea<g ref="char:EOLhyphen"/>ning of thoſe words, <hi>Eph.</hi> 2.7. <hi>In his kindneſſe towards us, through Chriſt Jeſus.</hi> Where occaſion will be given to make this double enquiry.</p>
+               <p>Firſt, <hi>what</hi> the <hi>great<g ref="char:EOLhyphen"/>neſſe</hi> of Gods <hi>love</hi> is to the <hi>Saints,</hi> as they ſtand,
+<pb n="115" facs="tcp:152193:82"/>in a kind of <hi>ſingle</hi> relati<g ref="char:EOLhyphen"/>on to <hi>himſelf,</hi> from thoſe words, <hi>in his kindneſſe to<g ref="char:EOLhyphen"/>wards us.</hi>
+               </p>
+               <p>Secondly, <hi>what</hi> the <hi>greatneſſe</hi> of his <hi>love</hi> is to the <hi>ſame Saints,</hi> as they ſtand in a <hi>double</hi> relation, <hi>viz.</hi> both to <hi>himſelfe,</hi> and to his <hi>Sonne,</hi> and <hi>how</hi> that <hi>love wrought</hi> from all eternity in <hi>behalfe</hi> of the Saints, while 1. it <hi>gave</hi> the <hi>Saints</hi> to <hi>Chriſt,</hi> and 2. <hi>gave Chriſt</hi> to <hi>them,</hi> from thoſe words, <hi>through Jeſus Chriſt.</hi>
+               </p>
+               <p>A ſpeculation moſt <hi>in<g ref="char:EOLhyphen"/>effably</hi> delightful; which, it was no marvaile that
+<pb n="116" facs="tcp:152193:83"/>the Angels ſhould <hi>ſo much</hi> deſire to peep into,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Propenſo collo vel in clinato capite in<g ref="char:EOLhyphen"/>troſpicere.</note> 
+                  <hi>ſtooping down,</hi> as the Apo<g ref="char:EOLhyphen"/>ſtle ſpeak's, in alluſi<g ref="char:EOLhyphen"/>on to the Cherubims o<g ref="char:EOLhyphen"/>ver the Mercy-ſeat, that they might <hi>pry</hi> into the depths of this glorious myſterie, <hi>viz.</hi> the myſte<g ref="char:EOLhyphen"/>rie of <hi>this</hi> love. Of which, if God permit, I ſhall ſpeak in the next part by it ſelfe.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:152193:83"/>
+            <head>ERRATA.</head>
+            <p>PAg. 33. line 10. for <hi>head</hi> read <hi>heale.</hi> Pag. 48. margent read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb facs="tcp:152193:84"/>
+            <pb facs="tcp:152193:84"/>
+         </div>
+      </back>
+   </text>
+</TEI>
